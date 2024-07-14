@@ -1,0 +1,3 @@
+# Storing Curated Benchmarks
+
+All data will be stored as CSV files, adhering to a consistent format determined by the task name. To incorporate a new dataset, please submit a pull request (PR). If the dataset pertains to a new language, create a new folder for it. For datasets in existing languages, add the files to the appropriate existing folder. Additionally, include a concise description of the dataset in a README file located within the respective language folder.
