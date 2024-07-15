@@ -6,8 +6,8 @@ import time
 import modal
 
 MODEL_DIR = "/model"
-MODEL_NAME = "CohereForAI/aya-23-35B"
-MODEL_REVISION = "31d6fd858f20539a55401c7ad913086f54d9ca2c"
+MODEL_NAME = "CohereForAI/c4ai-command-r-v01"
+MODEL_REVISION = "16881ccde1c68bbc7041280e6a66637bc46bfe88"
 GPU_CONFIG = modal.gpu.A100(size="80GB", count=2)
 
 def download_model_to_image(model_dir, model_name, model_revision):
@@ -48,7 +48,7 @@ hf_image = (
     )
 )
 
-app = modal.App("aya-23-35B-batch-perplexity-inference")
+app = modal.App("c4ai-command-r-v01-batch-perplexity-inference")
 
 @app.cls(
     gpu=GPU_CONFIG,
@@ -67,8 +67,8 @@ class Model:
 
         from transformers import AutoTokenizer, AutoModelForCausalLM
 
-        self.tokenizer = AutoTokenizer.from_pretrained("CohereForAI/aya-23-35B", use_auth_token = os.environ["HF_TOKEN"], trust_remote_code=True, device_map="auto")
-        self.model = AutoModelForCausalLM.from_pretrained("CohereForAI/aya-23-35B", use_auth_token = os.environ["HF_TOKEN"], trust_remote_code=True, device_map="auto")
+        self.tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_auth_token = os.environ["HF_TOKEN"], trust_remote_code=True, device_map="auto")
+        self.model = AutoModelForCausalLM.from_pretrained(MODEL_NAME, use_auth_token = os.environ["HF_TOKEN"], trust_remote_code=True, device_map="auto")
 
         self.device = "cuda"
 

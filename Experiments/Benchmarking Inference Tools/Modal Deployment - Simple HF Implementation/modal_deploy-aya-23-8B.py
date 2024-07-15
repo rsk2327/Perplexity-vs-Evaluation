@@ -66,8 +66,8 @@ class Model:
 
         from transformers import AutoTokenizer, AutoModelForCausalLM
 
-        self.tokenizer = AutoTokenizer.from_pretrained("CohereForAI/aya-23-8B", use_auth_token = os.environ["HF_TOKEN"], trust_remote_code=True)
-        self.model = AutoModelForCausalLM.from_pretrained("CohereForAI/aya-23-8B", use_auth_token = os.environ["HF_TOKEN"], trust_remote_code=True)
+        self.tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_auth_token = os.environ["HF_TOKEN"], trust_remote_code=True)
+        self.model = AutoModelForCausalLM.from_pretrained(MODEL_NAME, use_auth_token = os.environ["HF_TOKEN"], trust_remote_code=True)
 
         self.model.to("cuda")
 

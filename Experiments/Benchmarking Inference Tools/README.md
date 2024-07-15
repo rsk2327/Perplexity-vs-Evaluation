@@ -13,8 +13,8 @@ Average of 10 runs with same sample
 |-----------------------|----------------------|-------------------|----------------------------------------:|
 | CohereForAI/aya-23-8B | Huggingface          | A100-80GB (Modal) | 1.39 Seconds (Excluding Coldstart Time) |
 | CohereForAI/aya-23-35B | Huggingface          | 2xA100-80GB (Modal) | 2.04 Seconds (Excluding Coldstart Time) |
-| CohereForAI/c4ai-command-r-plus-4bit | Huggingface          | A100-80GB (Modal) | ToDo |
-| CohereForAI/c4ai-command-r-plus | Huggingface          | A100-80GB (Modal) | ToDo |
-| CohereForAI/c4ai-command-r-v01-4bit | Huggingface          | A100-80GB (Modal) | ToDo |
-| CohereForAI/c4ai-command-r-v01 | Huggingface          | A100-80GB (Modal) | ToDo |
+| CohereForAI/c4ai-command-r-plus-4bit | Huggingface          | ToDo | ToDo |
+| CohereForAI/c4ai-command-r-plus | Huggingface          | 2xA100-80GB (Modal) | 1.99 Seconds (Excluding Coldstart Time) |
+| CohereForAI/c4ai-command-r-v01-4bit | Huggingface          | ToDo | ToDo |
+| CohereForAI/c4ai-command-r-v01 (Note: Got very high perplexities with same setup, need to debug) | Huggingface          | 3xA100-80GB (Modal) | 44.87 Seconds (Excluding Coldstart Time) |
 
