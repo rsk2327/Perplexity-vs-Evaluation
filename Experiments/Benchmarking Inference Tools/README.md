@@ -2,7 +2,8 @@
 
 - vLLM: Not suitable because it does return logits for the prompt. See: https://github.com/vllm-project/vllm/issues/2364
 - SGLang: Again same issue as vLLM, they do not store KV cache for shared prefixes and presumably that extends to entire prompt. See: https://github.com/sgl-project/sglang/issues/81#issuecomment-1905793473
-- Native HF: Works, example in `modal_deploy.py`
+- Native HF: Works, examples in `Modal Deployment - Simple HF Implementation/`
+- TensorRT: Seems to support logits for prompt but does not support Command Models (https://github.com/NVIDIA/TensorRT-LLM/issues/1360, https://github.com/NVIDIA/TensorRT-LLM/issues/1657)
 
 # Runtimes - 
 
