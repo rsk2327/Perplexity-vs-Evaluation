@@ -1,3 +1,4 @@
 Experiments/Benchmarking Inference Tools/.env
 Experiments/API Inference/.env
 Experiments/Benchmarking Inference Tools/__pycache__/
+wandb/
