@@ -19,19 +19,33 @@ def main(args):
     output_file = args.output
     prefix = args.file_prefix
 
-    file_paths = [os.path.join(samples_dir, file) for file in os.listdir(samples_dir) if file.startswith(prefix)]
+    files = os.listdir(samples_dir)
 
-    benchmark_arguments = []
-    for file in tqdm(file_paths[:2]):
-        benchmark_arguments += get_arguments_for_file(file)
+    # # To collect all samples into one single file
+    # file_paths = Need to redefine
+    # benchmark_arguments = []
+    # for file in tqdm(file_paths):
+    #     benchmark_arguments += get_arguments_from_file(file)
+    #
+    # df = pd.concat(benchmark_arguments)
+    # df.to_feather(f"{output_file}.feather")
 
-    df = pd.concat(benchmark_arguments)
+    # For individual sample files
+    output_folder = output_file
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
 
-    df.to_feather(f"{output_file}.feather")
-    df.to_csv(f"{output_file}.csv", sep="\t", index=False)
+    for file in tqdm(files):
+        if not file.startswith(prefix):
+            continue
+
+        arguments = get_arguments_from_file(os.path.join(samples_dir, file))
+        df = pd.concat(arguments)
+
+        df.to_feather(f"{output_folder}/{file}.feather")
 
 
-def get_arguments_for_file(file_path):
+def get_arguments_from_file(file_path):
     # TODO A faster vectorized implementation
     arguments = []
 
