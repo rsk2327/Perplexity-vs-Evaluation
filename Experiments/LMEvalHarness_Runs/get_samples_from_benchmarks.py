@@ -28,7 +28,6 @@ def main(args):
     df = pd.concat(benchmark_arguments)
 
     df.to_feather(f"{output_file}.feather")
-    df.to_csv(f"{output_file}.csv", sep="\t", index=False)
 
 
 def get_arguments_for_file(file_path):
