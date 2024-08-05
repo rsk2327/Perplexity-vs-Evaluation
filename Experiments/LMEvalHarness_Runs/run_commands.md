@@ -53,6 +53,6 @@ lm_eval --model hf --model_args pretrained='/NS/llm-1/nobackup/afkhan/Model_Save
 
 To Run for All - 
 
-- Run `run_okapi.py`
+- Run `run_hellaswag_and_okapi_aya_35b.py` for 35B and `run_hellaswag_and_okapi_aya_8b.py` for 8B
 - Provide CLI args `--apply_chat_template` as `Yes` to provide the same and `No` to skip
-- Also choose GPU to use by providing `--cuda_device_id` and setting to say 1 to use GPU `cuda:1`
+- Also choose GPU to use by providing `--cuda_device_id` and setting to say 1 to use GPU `cuda:1` (This only works for 8B model)
