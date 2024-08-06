@@ -6,3 +6,71 @@ HERE
 
 
 CHAT TEMPLATE None
+Passed argument batch_size = auto:1. Detecting largest batch size
+Determined largest batch size: 1
+hf (pretrained=/NS/llm-1/nobackup/afkhan/Model_Saves/aya-23-35B), gen_kwargs: (None), limit: None, num_fewshot: None, batch_size: auto (1)
+|   Tasks    |Version|Filter|n-shot| Metric |   |Value |   |Stderr|
+|------------|------:|------|-----:|--------|---|-----:|---|-----:|
+|hellaswag   |      1|none  |     0|acc     |↑  |0.6325|±  |0.0048|
+|            |       |none  |     0|acc_norm|↑  |0.8231|±  |0.0038|
+|hellaswag_ar|      1|none  |     0|acc     |↑  |0.4706|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6217|±  |0.0051|
+|hellaswag_bn|      1|none  |     0|acc     |↑  |0.2816|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.3302|±  |0.0049|
+|hellaswag_ca|      1|none  |     0|acc     |↑  |0.4362|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.5784|±  |0.0051|
+|hellaswag_da|      1|none  |     0|acc     |↑  |0.4328|±  |0.0051|
+|            |       |none  |     0|acc_norm|↑  |0.5759|±  |0.0051|
+|hellaswag_de|      1|none  |     0|acc     |↑  |0.5413|±  |0.0051|
+|            |       |none  |     0|acc_norm|↑  |0.6959|±  |0.0048|
+|hellaswag_es|      1|none  |     0|acc     |↑  |0.5674|±  |0.0051|
+|            |       |none  |     0|acc_norm|↑  |0.7437|±  |0.0045|
+|hellaswag_eu|      1|none  |     0|acc     |↑  |0.2717|±  |0.0046|
+|            |       |none  |     0|acc_norm|↑  |0.3070|±  |0.0048|
+|hellaswag_fr|      1|none  |     0|acc     |↑  |0.5674|±  |0.0051|
+|            |       |none  |     0|acc_norm|↑  |0.7355|±  |0.0046|
+|hellaswag_gu|      1|none  |     0|acc     |↑  |0.2697|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.3126|±  |0.0049|
+|hellaswag_hi|      1|none  |     0|acc     |↑  |0.4048|±  |0.0051|
+|            |       |none  |     0|acc_norm|↑  |0.5123|±  |0.0052|
+|hellaswag_hr|      1|none  |     0|acc     |↑  |0.3935|±  |0.0050|
+|            |       |none  |     0|acc_norm|↑  |0.5235|±  |0.0051|
+|hellaswag_hu|      1|none  |     0|acc     |↑  |0.3327|±  |0.0049|
+|            |       |none  |     0|acc_norm|↑  |0.4131|±  |0.0052|
+|hellaswag_hy|      1|none  |     0|acc     |↑  |0.2565|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.2854|±  |0.0049|
+|hellaswag_id|      1|none  |     0|acc     |↑  |0.5072|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6714|±  |0.0049|
+|hellaswag_it|      1|none  |     0|acc     |↑  |0.5464|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.7197|±  |0.0047|
+|hellaswag_kn|      1|none  |     0|acc     |↑  |0.2631|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.3099|±  |0.0049|
+|hellaswag_ml|      1|none  |     0|acc     |↑  |0.2634|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.3098|±  |0.0049|
+|hellaswag_mr|      1|none  |     0|acc     |↑  |0.2756|±  |0.0046|
+|            |       |none  |     0|acc_norm|↑  |0.3303|±  |0.0049|
+|hellaswag_ne|      1|none  |     0|acc     |↑  |0.2902|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.3354|±  |0.0049|
+|hellaswag_nl|      1|none  |     0|acc     |↑  |0.5274|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6931|±  |0.0048|
+|hellaswag_pt|      1|none  |     0|acc     |↑  |0.5543|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.7329|±  |0.0046|
+|hellaswag_ro|      1|none  |     0|acc     |↑  |0.5189|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6714|±  |0.0049|
+|hellaswag_ru|      1|none  |     0|acc     |↑  |0.4937|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6462|±  |0.0050|
+|hellaswag_sk|      1|none  |     0|acc     |↑  |0.4232|±  |0.0051|
+|            |       |none  |     0|acc_norm|↑  |0.5491|±  |0.0051|
+|hellaswag_sr|      1|none  |     0|acc     |↑  |0.3976|±  |0.0050|
+|            |       |none  |     0|acc_norm|↑  |0.5178|±  |0.0051|
+|hellaswag_sv|      1|none  |     0|acc     |↑  |0.4401|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.5834|±  |0.0052|
+|hellaswag_ta|      1|none  |     0|acc     |↑  |0.2625|±  |0.0048|
+|            |       |none  |     0|acc_norm|↑  |0.3075|±  |0.0050|
+|hellaswag_te|      1|none  |     0|acc     |↑  |0.2579|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.2968|±  |0.0049|
+|hellaswag_uk|      1|none  |     0|acc     |↑  |0.4789|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6206|±  |0.0050|
+|hellaswag_vi|      1|none  |     0|acc     |↑  |0.4848|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6214|±  |0.0051|
+
