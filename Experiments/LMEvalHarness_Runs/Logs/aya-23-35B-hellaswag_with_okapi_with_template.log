@@ -6,3 +6,71 @@ HERE
 
 
 CHAT TEMPLATE {{ bos_token }}{% if messages[0]['role'] == 'system' %}{% set loop_messages = messages[1:] %}{% set system_message = messages[0]['content'] %}{% elif false == true %}{% set loop_messages = messages %}{% set system_message = 'You are Command-R, a brilliant, sophisticated, AI-assistant trained to assist human users by providing thorough responses. You are trained by Cohere.' %}{% else %}{% set loop_messages = messages %}{% set system_message = false %}{% endif %}{% if system_message != false %}{{ '<|START_OF_TURN_TOKEN|><|SYSTEM_TOKEN|>' + system_message + '<|END_OF_TURN_TOKEN|>' }}{% endif %}{% for message in loop_messages %}{% if (message['role'] == 'user') != (loop.index0 % 2 == 0) %}{{ raise_exception('Conversation roles must alternate user/assistant/user/assistant/...') }}{% endif %}{% set content = message['content'] %}{% if message['role'] == 'user' %}{{ '<|START_OF_TURN_TOKEN|><|USER_TOKEN|>' + content.strip() + '<|END_OF_TURN_TOKEN|>' }}{% elif message['role'] == 'assistant' %}{{ '<|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>'  + content.strip() + '<|END_OF_TURN_TOKEN|>' }}{% endif %}{% endfor %}{% if add_generation_prompt %}{{ '<|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>' }}{% endif %}
+Passed argument batch_size = auto:1. Detecting largest batch size
+Determined largest batch size: 1
+hf (pretrained=/NS/llm-1/nobackup/afkhan/Model_Saves/aya-23-35B), gen_kwargs: (None), limit: None, num_fewshot: None, batch_size: auto (1)
+|   Tasks    |Version|Filter|n-shot| Metric |   |Value |   |Stderr|
+|------------|------:|------|-----:|--------|---|-----:|---|-----:|
+|hellaswag   |      1|none  |     0|acc     |↑  |0.6520|±  |0.0048|
+|            |       |none  |     0|acc_norm|↑  |0.8247|±  |0.0038|
+|hellaswag_ar|      1|none  |     0|acc     |↑  |0.4528|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.5541|±  |0.0052|
+|hellaswag_bn|      1|none  |     0|acc     |↑  |0.2916|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.3329|±  |0.0049|
+|hellaswag_ca|      1|none  |     0|acc     |↑  |0.4463|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.5734|±  |0.0052|
+|hellaswag_da|      1|none  |     0|acc     |↑  |0.4277|±  |0.0051|
+|            |       |none  |     0|acc_norm|↑  |0.5498|±  |0.0052|
+|hellaswag_de|      1|none  |     0|acc     |↑  |0.5194|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6468|±  |0.0049|
+|hellaswag_es|      1|none  |     0|acc     |↑  |0.5622|±  |0.0051|
+|            |       |none  |     0|acc_norm|↑  |0.7095|±  |0.0047|
+|hellaswag_eu|      1|none  |     0|acc     |↑  |0.2744|±  |0.0046|
+|            |       |none  |     0|acc_norm|↑  |0.3122|±  |0.0048|
+|hellaswag_fr|      1|none  |     0|acc     |↑  |0.5445|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6864|±  |0.0048|
+|hellaswag_gu|      1|none  |     0|acc     |↑  |0.2783|±  |0.0048|
+|            |       |none  |     0|acc_norm|↑  |0.3292|±  |0.0050|
+|hellaswag_hi|      1|none  |     0|acc     |↑  |0.3852|±  |0.0050|
+|            |       |none  |     0|acc_norm|↑  |0.4477|±  |0.0051|
+|hellaswag_hr|      1|none  |     0|acc     |↑  |0.3813|±  |0.0050|
+|            |       |none  |     0|acc_norm|↑  |0.4813|±  |0.0051|
+|hellaswag_hu|      1|none  |     0|acc     |↑  |0.3235|±  |0.0049|
+|            |       |none  |     0|acc_norm|↑  |0.3875|±  |0.0051|
+|hellaswag_hy|      1|none  |     0|acc     |↑  |0.2593|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.2880|±  |0.0049|
+|hellaswag_id|      1|none  |     0|acc     |↑  |0.4996|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6332|±  |0.0050|
+|hellaswag_it|      1|none  |     0|acc     |↑  |0.5275|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6757|±  |0.0049|
+|hellaswag_kn|      1|none  |     0|acc     |↑  |0.2684|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.3142|±  |0.0049|
+|hellaswag_ml|      1|none  |     0|acc     |↑  |0.2636|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.3121|±  |0.0049|
+|hellaswag_mr|      1|none  |     0|acc     |↑  |0.2738|±  |0.0046|
+|            |       |none  |     0|acc_norm|↑  |0.3238|±  |0.0049|
+|hellaswag_ne|      1|none  |     0|acc     |↑  |0.2901|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.3314|±  |0.0049|
+|hellaswag_nl|      1|none  |     0|acc     |↑  |0.5086|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6479|±  |0.0050|
+|hellaswag_pt|      1|none  |     0|acc     |↑  |0.5387|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6888|±  |0.0048|
+|hellaswag_ro|      1|none  |     0|acc     |↑  |0.4919|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6138|±  |0.0051|
+|hellaswag_ru|      1|none  |     0|acc     |↑  |0.4835|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.6044|±  |0.0051|
+|hellaswag_sk|      1|none  |     0|acc     |↑  |0.4002|±  |0.0050|
+|            |       |none  |     0|acc_norm|↑  |0.5029|±  |0.0051|
+|hellaswag_sr|      1|none  |     0|acc     |↑  |0.3788|±  |0.0050|
+|            |       |none  |     0|acc_norm|↑  |0.4790|±  |0.0051|
+|hellaswag_sv|      1|none  |     0|acc     |↑  |0.4367|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.5526|±  |0.0052|
+|hellaswag_ta|      1|none  |     0|acc     |↑  |0.2651|±  |0.0048|
+|            |       |none  |     0|acc_norm|↑  |0.3019|±  |0.0050|
+|hellaswag_te|      1|none  |     0|acc     |↑  |0.2667|±  |0.0047|
+|            |       |none  |     0|acc_norm|↑  |0.3000|±  |0.0049|
+|hellaswag_uk|      1|none  |     0|acc     |↑  |0.4591|±  |0.0051|
+|            |       |none  |     0|acc_norm|↑  |0.5734|±  |0.0051|
+|hellaswag_vi|      1|none  |     0|acc     |↑  |0.4616|±  |0.0052|
+|            |       |none  |     0|acc_norm|↑  |0.5668|±  |0.0052|
+
