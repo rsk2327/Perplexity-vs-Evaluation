@@ -1,0 +1,1746 @@
+{
+  "results": {
+    "hellaswag_vi": {
+      "acc,none": 0.46158044095175726,
+      "acc_stderr,none": 0.0052085000335353685,
+      "acc_norm,none": 0.5667976424361493,
+      "acc_norm_stderr,none": 0.005177117021825542,
+      "alias": "hellaswag_vi"
+    },
+    "hellaswag_uk": {
+      "acc,none": 0.45913487086831756,
+      "acc_stderr,none": 0.005137667284847078,
+      "acc_norm,none": 0.5733871824848549,
+      "acc_norm_stderr,none": 0.005099085400589754,
+      "alias": "hellaswag_uk"
+    },
+    "hellaswag_te": {
+      "acc,none": 0.2667354424575883,
+      "acc_stderr,none": 0.004735193969375293,
+      "acc_norm,none": 0.2999770747363595,
+      "acc_norm_stderr,none": 0.00490644831351449,
+      "alias": "hellaswag_te"
+    },
+    "hellaswag_ta": {
+      "acc,none": 0.26506596933317483,
+      "acc_stderr,none": 0.004812287149817255,
+      "acc_norm,none": 0.3019137049803875,
+      "acc_norm_stderr,none": 0.005005487000283411,
+      "alias": "hellaswag_ta"
+    },
+    "hellaswag_sv": {
+      "acc,none": 0.4367463275597457,
+      "acc_stderr,none": 0.005193324011480018,
+      "acc_norm,none": 0.5526200394650296,
+      "acc_norm_stderr,none": 0.00520631391456442,
+      "alias": "hellaswag_sv"
+    },
+    "hellaswag_sr": {
+      "acc,none": 0.37877024023706213,
+      "acc_stderr,none": 0.004990500558489513,
+      "acc_norm,none": 0.4789924859773521,
+      "acc_norm_stderr,none": 0.005139447113613787,
+      "alias": "hellaswag_sr"
+    },
+    "hellaswag_sk": {
+      "acc,none": 0.40021085925144967,
+      "acc_stderr,none": 0.005030926365572591,
+      "acc_norm,none": 0.5028993147074328,
+      "acc_norm_stderr,none": 0.0051341308162248574,
+      "alias": "hellaswag_sk"
+    },
+    "hellaswag_ru": {
+      "acc,none": 0.4834987057808456,
+      "acc_stderr,none": 0.005190032464746502,
+      "acc_norm,none": 0.6044003451251079,
+      "acc_norm_stderr,none": 0.005078401265668288,
+      "alias": "hellaswag_ru"
+    },
+    "hellaswag_ro": {
+      "acc,none": 0.49194159004867494,
+      "acc_stderr,none": 0.0051997638958508575,
+      "acc_norm,none": 0.6138453217955652,
+      "acc_norm_stderr,none": 0.005063842123062698,
+      "alias": "hellaswag_ro"
+    },
+    "hellaswag_pt": {
+      "acc,none": 0.5387365911799762,
+      "acc_stderr,none": 0.005189302002950137,
+      "acc_norm,none": 0.6888070213457579,
+      "acc_norm_stderr,none": 0.0048195876693340805,
+      "alias": "hellaswag_pt"
+    },
+    "hellaswag_nl": {
+      "acc,none": 0.5085806799784134,
+      "acc_stderr,none": 0.005194057692409772,
+      "acc_norm,none": 0.6479222881813276,
+      "acc_norm_stderr,none": 0.004962282138920753,
+      "alias": "hellaswag_nl"
+    },
+    "hellaswag_ne": {
+      "acc,none": 0.2900837089504185,
+      "acc_stderr,none": 0.004701399894649297,
+      "acc_norm,none": 0.3314015883236746,
+      "acc_norm_stderr,none": 0.004876653684896443,
+      "alias": "hellaswag_ne"
+    },
+    "hellaswag_mr": {
+      "acc,none": 0.2738441642418364,
+      "acc_stderr,none": 0.004629557441851664,
+      "acc_norm,none": 0.3238495527535295,
+      "acc_norm_stderr,none": 0.004858096491783946,
+      "alias": "hellaswag_mr"
+    },
+    "hellaswag_ml": {
+      "acc,none": 0.2636292398970111,
+      "acc_stderr,none": 0.004661983145904786,
+      "acc_norm,none": 0.3121011978058883,
+      "acc_norm_stderr,none": 0.004902703588639176,
+      "alias": "hellaswag_ml"
+    },
+    "hellaswag_kn": {
+      "acc,none": 0.26844955991875424,
+      "acc_stderr,none": 0.004707736187738224,
+      "acc_norm,none": 0.3141503046716317,
+      "acc_norm_stderr,none": 0.004931077739911296,
+      "alias": "hellaswag_kn"
+    },
+    "hellaswag_it": {
+      "acc,none": 0.5274665506363537,
+      "acc_stderr,none": 0.005207253641921892,
+      "acc_norm,none": 0.675731534863483,
+      "acc_norm_stderr,none": 0.004882412216167009,
+      "alias": "hellaswag_it"
+    },
+    "hellaswag_id": {
+      "acc,none": 0.49957053897358816,
+      "acc_stderr,none": 0.005181136601223123,
+      "acc_norm,none": 0.6332402834442774,
+      "acc_norm_stderr,none": 0.004993790053972844,
+      "alias": "hellaswag_id"
+    },
+    "hellaswag_hy": {
+      "acc,none": 0.2592678405931418,
+      "acc_stderr,none": 0.0047170922223932574,
+      "acc_norm,none": 0.2879981464318814,
+      "acc_norm_stderr,none": 0.004874216888622754,
+      "alias": "hellaswag_hy"
+    },
+    "hellaswag_hu": {
+      "acc,none": 0.3235003838140147,
+      "acc_stderr,none": 0.004899157296075766,
+      "acc_norm,none": 0.38754249369448407,
+      "acc_norm_stderr,none": 0.0051020869037877664,
+      "alias": "hellaswag_hu"
+    },
+    "hellaswag_hr": {
+      "acc,none": 0.3812691373666983,
+      "acc_stderr,none": 0.0049910477646112825,
+      "acc_norm,none": 0.4812585788195544,
+      "acc_norm_stderr,none": 0.005134400196543314,
+      "alias": "hellaswag_hr"
+    },
+    "hellaswag_hi": {
+      "acc,none": 0.3851954120645709,
+      "acc_stderr,none": 0.005015323376439117,
+      "acc_norm,none": 0.44774851316907394,
+      "acc_norm_stderr,none": 0.005124781586724471,
+      "alias": "hellaswag_hi"
+    },
+    "hellaswag_gu": {
+      "acc,none": 0.27831421106440984,
+      "acc_stderr,none": 0.0047769542930733095,
+      "acc_norm,none": 0.32920595251618767,
+      "acc_norm_stderr,none": 0.0050088469033378385,
+      "alias": "hellaswag_gu"
+    },
+    "hellaswag_fr": {
+      "acc,none": 0.5445491539944314,
+      "acc_stderr,none": 0.005153895647231068,
+      "acc_norm,none": 0.6864424930391947,
+      "acc_norm_stderr,none": 0.004801279647950512,
+      "alias": "hellaswag_fr"
+    },
+    "hellaswag_eu": {
+      "acc,none": 0.2744462452728255,
+      "acc_stderr,none": 0.004638725740947334,
+      "acc_norm,none": 0.3121555915721232,
+      "acc_norm_stderr,none": 0.004816881001083798,
+      "alias": "hellaswag_eu"
+    },
+    "hellaswag_es": {
+      "acc,none": 0.5621933006187326,
+      "acc_stderr,none": 0.005124420099571395,
+      "acc_norm,none": 0.7095156816727117,
+      "acc_norm_stderr,none": 0.00468924621881049,
+      "alias": "hellaswag_es"
+    },
+    "hellaswag_de": {
+      "acc,none": 0.5194278394534586,
+      "acc_stderr,none": 0.005162281172550636,
+      "acc_norm,none": 0.6467762596071733,
+      "acc_norm_stderr,none": 0.004938575728365818,
+      "alias": "hellaswag_de"
+    },
+    "hellaswag_da": {
+      "acc,none": 0.4277270284793122,
+      "acc_stderr,none": 0.00512920567100942,
+      "acc_norm,none": 0.5498119290703922,
+      "acc_norm_stderr,none": 0.00515785607921209,
+      "alias": "hellaswag_da"
+    },
+    "hellaswag_ca": {
+      "acc,none": 0.4463141895559657,
+      "acc_stderr,none": 0.005179910179076017,
+      "acc_norm,none": 0.5734447942677233,
+      "acc_norm_stderr,none": 0.005153515842307612,
+      "alias": "hellaswag_ca"
+    },
+    "hellaswag_bn": {
+      "acc,none": 0.2916035490153646,
+      "acc_stderr,none": 0.0047279742863515556,
+      "acc_norm,none": 0.33293659381086343,
+      "acc_norm_stderr,none": 0.004902355927348054,
+      "alias": "hellaswag_bn"
+    },
+    "hellaswag_ar": {
+      "acc,none": 0.45281168265039234,
+      "acc_stderr,none": 0.005196658564924773,
+      "acc_norm,none": 0.5540540540540541,
+      "acc_norm_stderr,none": 0.00518936408866495,
+      "alias": "hellaswag_ar"
+    },
+    "hellaswag": {
+      "acc,none": 0.6519617606054571,
+      "acc_stderr,none": 0.004753746951620145,
+      "acc_norm,none": 0.8247361083449513,
+      "acc_norm_stderr,none": 0.003794156551272291,
+      "alias": "hellaswag"
+    }
+  },
+  "group_subtasks": {
+    "hellaswag": [],
+    "hellaswag_ar": [],
+    "hellaswag_bn": [],
+    "hellaswag_ca": [],
+    "hellaswag_da": [],
+    "hellaswag_de": [],
+    "hellaswag_es": [],
+    "hellaswag_eu": [],
+    "hellaswag_fr": [],
+    "hellaswag_gu": [],
+    "hellaswag_hi": [],
+    "hellaswag_hr": [],
+    "hellaswag_hu": [],
+    "hellaswag_hy": [],
+    "hellaswag_id": [],
+    "hellaswag_it": [],
+    "hellaswag_kn": [],
+    "hellaswag_ml": [],
+    "hellaswag_mr": [],
+    "hellaswag_ne": [],
+    "hellaswag_nl": [],
+    "hellaswag_pt": [],
+    "hellaswag_ro": [],
+    "hellaswag_ru": [],
+    "hellaswag_sk": [],
+    "hellaswag_sr": [],
+    "hellaswag_sv": [],
+    "hellaswag_ta": [],
+    "hellaswag_te": [],
+    "hellaswag_uk": [],
+    "hellaswag_vi": []
+  },
+  "configs": {
+    "hellaswag": {
+      "task": "hellaswag",
+      "group": [
+        "multiple_choice"
+      ],
+      "dataset_path": "hellaswag",
+      "dataset_kwargs": {
+        "trust_remote_code": true
+      },
+      "training_split": "train",
+      "validation_split": "validation",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "{{query}}",
+      "doc_to_target": "{{label}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_ar": {
+      "task": "hellaswag_ar",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "ar",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_bn": {
+      "task": "hellaswag_bn",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "bn",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_ca": {
+      "task": "hellaswag_ca",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "ca",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_da": {
+      "task": "hellaswag_da",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "da",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_de": {
+      "task": "hellaswag_de",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "de",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_es": {
+      "task": "hellaswag_es",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "es",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_eu": {
+      "task": "hellaswag_eu",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "eu",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_fr": {
+      "task": "hellaswag_fr",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "fr",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_gu": {
+      "task": "hellaswag_gu",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "gu",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_hi": {
+      "task": "hellaswag_hi",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "hi",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_hr": {
+      "task": "hellaswag_hr",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "hr",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_hu": {
+      "task": "hellaswag_hu",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "hu",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_hy": {
+      "task": "hellaswag_hy",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "hy",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_id": {
+      "task": "hellaswag_id",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "id",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_it": {
+      "task": "hellaswag_it",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "it",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_kn": {
+      "task": "hellaswag_kn",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "kn",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_ml": {
+      "task": "hellaswag_ml",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "ml",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_mr": {
+      "task": "hellaswag_mr",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "mr",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_ne": {
+      "task": "hellaswag_ne",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "ne",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_nl": {
+      "task": "hellaswag_nl",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "nl",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_pt": {
+      "task": "hellaswag_pt",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "pt",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_ro": {
+      "task": "hellaswag_ro",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "ro",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_ru": {
+      "task": "hellaswag_ru",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "ru",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_sk": {
+      "task": "hellaswag_sk",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "sk",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_sr": {
+      "task": "hellaswag_sr",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "sr",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_sv": {
+      "task": "hellaswag_sv",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "sv",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_ta": {
+      "task": "hellaswag_ta",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "ta",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_te": {
+      "task": "hellaswag_te",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "te",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_uk": {
+      "task": "hellaswag_uk",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "uk",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "hellaswag_vi": {
+      "task": "hellaswag_vi",
+      "group": [
+        "hellaswag_multilingual"
+      ],
+      "dataset_path": "alexandrainst/m_hellaswag",
+      "dataset_name": "vi",
+      "validation_split": "val",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _process_doc(doc):\n        ctx = doc[\"ctx_a\"] + \" \" + doc[\"ctx_b\"].capitalize()\n        out_doc = {\n            \"query\": preprocess(doc[\"activity_label\"] + \": \" + ctx),\n            \"choices\": [preprocess(ending) for ending in doc[\"endings\"]],\n            \"gold\": int(doc[\"label\"]),\n        }\n        return out_doc\n\n    return dataset.map(_process_doc)\n",
+      "doc_to_text": "query",
+      "doc_to_target": "{{label.lstrip()}}",
+      "doc_to_choice": "choices",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    }
+  },
+  "versions": {
+    "hellaswag": 1.0,
+    "hellaswag_ar": 1.0,
+    "hellaswag_bn": 1.0,
+    "hellaswag_ca": 1.0,
+    "hellaswag_da": 1.0,
+    "hellaswag_de": 1.0,
+    "hellaswag_es": 1.0,
+    "hellaswag_eu": 1.0,
+    "hellaswag_fr": 1.0,
+    "hellaswag_gu": 1.0,
+    "hellaswag_hi": 1.0,
+    "hellaswag_hr": 1.0,
+    "hellaswag_hu": 1.0,
+    "hellaswag_hy": 1.0,
+    "hellaswag_id": 1.0,
+    "hellaswag_it": 1.0,
+    "hellaswag_kn": 1.0,
+    "hellaswag_ml": 1.0,
+    "hellaswag_mr": 1.0,
+    "hellaswag_ne": 1.0,
+    "hellaswag_nl": 1.0,
+    "hellaswag_pt": 1.0,
+    "hellaswag_ro": 1.0,
+    "hellaswag_ru": 1.0,
+    "hellaswag_sk": 1.0,
+    "hellaswag_sr": 1.0,
+    "hellaswag_sv": 1.0,
+    "hellaswag_ta": 1.0,
+    "hellaswag_te": 1.0,
+    "hellaswag_uk": 1.0,
+    "hellaswag_vi": 1.0
+  },
+  "n-shot": {
+    "hellaswag": 0,
+    "hellaswag_ar": 0,
+    "hellaswag_bn": 0,
+    "hellaswag_ca": 0,
+    "hellaswag_da": 0,
+    "hellaswag_de": 0,
+    "hellaswag_es": 0,
+    "hellaswag_eu": 0,
+    "hellaswag_fr": 0,
+    "hellaswag_gu": 0,
+    "hellaswag_hi": 0,
+    "hellaswag_hr": 0,
+    "hellaswag_hu": 0,
+    "hellaswag_hy": 0,
+    "hellaswag_id": 0,
+    "hellaswag_it": 0,
+    "hellaswag_kn": 0,
+    "hellaswag_ml": 0,
+    "hellaswag_mr": 0,
+    "hellaswag_ne": 0,
+    "hellaswag_nl": 0,
+    "hellaswag_pt": 0,
+    "hellaswag_ro": 0,
+    "hellaswag_ru": 0,
+    "hellaswag_sk": 0,
+    "hellaswag_sr": 0,
+    "hellaswag_sv": 0,
+    "hellaswag_ta": 0,
+    "hellaswag_te": 0,
+    "hellaswag_uk": 0,
+    "hellaswag_vi": 0
+  },
+  "higher_is_better": {
+    "hellaswag": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_ar": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_bn": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_ca": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_da": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_de": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_es": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_eu": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_fr": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_gu": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_hi": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_hr": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_hu": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_hy": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_id": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_it": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_kn": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_ml": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_mr": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_ne": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_nl": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_pt": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_ro": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_ru": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_sk": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_sr": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_sv": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_ta": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_te": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_uk": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "hellaswag_vi": {
+      "acc": true,
+      "acc_norm": true
+    }
+  },
+  "n-samples": {
+    "hellaswag_vi": {
+      "original": 9162,
+      "effective": 9162
+    },
+    "hellaswag_uk": {
+      "original": 9409,
+      "effective": 9409
+    },
+    "hellaswag_te": {
+      "original": 8724,
+      "effective": 8724
+    },
+    "hellaswag_ta": {
+      "original": 8413,
+      "effective": 8413
+    },
+    "hellaswag_sv": {
+      "original": 9122,
+      "effective": 9122
+    },
+    "hellaswag_sr": {
+      "original": 9449,
+      "effective": 9449
+    },
+    "hellaswag_sk": {
+      "original": 9485,
+      "effective": 9485
+    },
+    "hellaswag_ru": {
+      "original": 9272,
+      "effective": 9272
+    },
+    "hellaswag_ro": {
+      "original": 9245,
+      "effective": 9245
+    },
+    "hellaswag_pt": {
+      "original": 9229,
+      "effective": 9229
+    },
+    "hellaswag_nl": {
+      "original": 9265,
+      "effective": 9265
+    },
+    "hellaswag_ne": {
+      "original": 9318,
+      "effective": 9318
+    },
+    "hellaswag_mr": {
+      "original": 9279,
+      "effective": 9279
+    },
+    "hellaswag_ml": {
+      "original": 8933,
+      "effective": 8933
+    },
+    "hellaswag_kn": {
+      "original": 8862,
+      "effective": 8862
+    },
+    "hellaswag_it": {
+      "original": 9193,
+      "effective": 9193
+    },
+    "hellaswag_id": {
+      "original": 9314,
+      "effective": 9314
+    },
+    "hellaswag_hy": {
+      "original": 8632,
+      "effective": 8632
+    },
+    "hellaswag_hu": {
+      "original": 9119,
+      "effective": 9119
+    },
+    "hellaswag_hr": {
+      "original": 9471,
+      "effective": 9471
+    },
+    "hellaswag_hi": {
+      "original": 9416,
+      "effective": 9416
+    },
+    "hellaswag_gu": {
+      "original": 8803,
+      "effective": 8803
+    },
+    "hellaswag_fr": {
+      "original": 9338,
+      "effective": 9338
+    },
+    "hellaswag_eu": {
+      "original": 9255,
+      "effective": 9255
+    },
+    "hellaswag_es": {
+      "original": 9374,
+      "effective": 9374
+    },
+    "hellaswag_de": {
+      "original": 9368,
+      "effective": 9368
+    },
+    "hellaswag_da": {
+      "original": 9305,
+      "effective": 9305
+    },
+    "hellaswag_ca": {
+      "original": 9211,
+      "effective": 9211
+    },
+    "hellaswag_bn": {
+      "original": 9242,
+      "effective": 9242
+    },
+    "hellaswag_ar": {
+      "original": 9176,
+      "effective": 9176
+    },
+    "hellaswag": {
+      "original": 10042,
+      "effective": 10042
+    }
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=/NS/llm-1/nobackup/afkhan/Model_Saves/aya-23-35B",
+    "model_num_parameters": 34980831232,
+    "model_dtype": "torch.float16",
+    "model_revision": "main",
+    "model_sha": "",
+    "batch_size": "auto",
+    "batch_sizes": [
+      1
+    ],
+    "device": null,
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 42,
+    "numpy_seed": 42,
+    "torch_seed": 42,
+    "fewshot_seed": 42
+  },
+  "git_hash": "31efaf8",
+  "date": 1722782480.929294,
+  "pretty_env_info": "PyTorch version: 2.3.1+cu121\nIs debug build: False\nCUDA used to build PyTorch: 12.1\nROCM used to build PyTorch: N/A\n\nOS: Debian GNU/Linux 12 (bookworm) (x86_64)\nGCC version: (Debian 12.2.0-14) 12.2.0\nClang version: 14.0.6\nCMake version: version 3.25.1\nLibc version: glibc-2.36\n\nPython version: 3.10.14 | packaged by conda-forge | (main, Mar 20 2024, 12:45:18) [GCC 12.3.0] (64-bit runtime)\nPython platform: Linux-6.1.92.1.amd64-smp-x86_64-with-glibc2.36\nIs CUDA available: True\nCUDA runtime version: 11.8.89\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: \nGPU 0: NVIDIA A100 80GB PCIe\nGPU 1: NVIDIA A100 80GB PCIe\nGPU 2: NVIDIA A100 80GB PCIe\nGPU 3: NVIDIA A100 80GB PCIe\nGPU 4: NVIDIA A100 80GB PCIe\nGPU 5: NVIDIA A100 80GB PCIe\nGPU 6: NVIDIA A100 80GB PCIe\nGPU 7: NVIDIA A100 80GB PCIe\n\nNvidia driver version: 550.54.14\ncuDNN version: Could not collect\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                         x86_64\nCPU op-mode(s):                       32-bit, 64-bit\nAddress sizes:                        46 bits physical, 57 bits virtual\nByte Order:                           Little Endian\nCPU(s):                               144\nOn-line CPU(s) list:                  0-143\nVendor ID:                            GenuineIntel\nModel name:                           Intel(R) Xeon(R) Platinum 8360Y CPU @ 2.40GHz\nCPU family:                           6\nModel:                                106\nThread(s) per core:                   2\nCore(s) per socket:                   36\nSocket(s):                            2\nStepping:                             6\nBogoMIPS:                             4800.00\nFlags:                                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 invpcid_single intel_ppin ssbd mba ibrs ibpb stibp ibrs_enhanced tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm rdt_a avx512f avx512dq rdseed adx smap avx512ifma clflushopt clwb intel_pt avx512cd sha_ni avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local split_lock_detect wbnoinvd dtherm ida arat pln pts hwp_epp avx512vbmi umip pku ospke avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg tme avx512_vpopcntdq la57 rdpid fsrm md_clear pconfig flush_l1d arch_capabilities\nVirtualization:                       VT-x\nL1d cache:                            3.4 MiB (72 instances)\nL1i cache:                            2.3 MiB (72 instances)\nL2 cache:                             90 MiB (72 instances)\nL3 cache:                             108 MiB (2 instances)\nNUMA node(s):                         2\nNUMA node0 CPU(s):                    0-35,72-107\nNUMA node1 CPU(s):                    36-71,108-143\nVulnerability Gather data sampling:   Mitigation; Microcode\nVulnerability Itlb multihit:          Not affected\nVulnerability L1tf:                   Not affected\nVulnerability Mds:                    Not affected\nVulnerability Meltdown:               Not affected\nVulnerability Mmio stale data:        Mitigation; Clear CPU buffers; SMT vulnerable\nVulnerability Reg file data sampling: Not affected\nVulnerability Retbleed:               Not affected\nVulnerability Spec rstack overflow:   Not affected\nVulnerability Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:             Mitigation; Enhanced / Automatic IBRS; IBPB conditional; RSB filling; PBRSB-eIBRS SW sequence; BHI SW loop, KVM SW loop\nVulnerability Srbds:                  Not affected\nVulnerability Tsx async abort:        Not affected\n\nVersions of relevant libraries:\n[pip3] numpy==1.26.4\n[pip3] torch==2.3.1\n[pip3] triton==2.3.1\n[conda] numpy                     1.26.4                   pypi_0    pypi\n[conda] torch                     2.3.1                    pypi_0    pypi\n[conda] triton                    2.3.1                    pypi_0    pypi",
+  "transformers_version": "4.42.3",
+  "upper_git_hash": null,
+  "tokenizer_pad_token": [
+    "<PAD>",
+    0
+  ],
+  "tokenizer_eos_token": [
+    "<|END_OF_TURN_TOKEN|>",
+    255001
+  ],
+  "tokenizer_bos_token": [
+    "<BOS_TOKEN>",
+    5
+  ],
+  "eot_token_id": 255001,
+  "max_length": 8192,
+  "task_hashes": {
+    "hellaswag_vi": "b3602ca40e03c131fdfb0939e8d740bde86fbf561ddc84e9783c6636aafe2e48",
+    "hellaswag_uk": "8b209482d11ad3143630b02d4d192497a9d3c3a4ec6a5db0e7d45c3c77e9e1c1",
+    "hellaswag_te": "df25f9d0fff5a03ccfe3a2c7ad5f32a404a0b789a02602876b0f1bf4912d18bd",
+    "hellaswag_ta": "c8871ce3286e86ad61fd66f8a3b00ffcb953d28551346b6ba0ba0e9e7620e7c6",
+    "hellaswag_sv": "d73d3caee6191a3216f16f6538c7f796594ba7ea6f2317d958196ecbd415d352",
+    "hellaswag_sr": "dd6448438b5550ec01cc1ec5e98e50380fa90811990bf8bd9890aec0596b48d4",
+    "hellaswag_sk": "ff29ed52c52b97a40a1d41cd609e9b944b739d0c0f5ae8d70a5a41b64c3ad904",
+    "hellaswag_ru": "93aa71ed077a4b9e0bf10e8ca6326d8bb78c6ffc7332187ff20bf59e16d57d97",
+    "hellaswag_ro": "f55b321ad818c5cde8cc5b6a4a1aeb8667a9f9206c9599e3b6beb389f6eb5036",
+    "hellaswag_pt": "788f4f5c7c560a93afb89680ef7838ebe66372c940195389fddb9756233a2c25",
+    "hellaswag_nl": "3b09dca7b56f0dad9d5a4ee1d94f682cd1bfb24fa228b95bb3d26a7b17d90aa1",
+    "hellaswag_ne": "ef0aa5780d3359dabad6463ff820a0295580fb7af227e5a52a1c1eeeaf3e1a4d",
+    "hellaswag_mr": "dd326e09d9b883c5a4dfa1e8e68954134916a6cd5dfd90aa1eea5ba232455e2b",
+    "hellaswag_ml": "712aa147453547a0178ea6bfb75433be5d8950322d69f636d7a29441d0f37a05",
+    "hellaswag_kn": "c972c654137cb8eb53cd6a9ba83a620ddead2b8509c751c99817d8a60f5f9f06",
+    "hellaswag_it": "376f3c5651da39b67ef0b9127992650fdb6f1d980af93e5ca54e6cecbb6d641e",
+    "hellaswag_id": "4a7b566ceb333da7adab05646abbf5b9af50f39567b8e61574701e9cea9cd8f9",
+    "hellaswag_hy": "fefe1e7ff1aa66870964ec9b09b07bef8294c795d261d8d629c096c1fccca830",
+    "hellaswag_hu": "82b3101738c0501222a95b45151bc8112a874141a658f5ec2169f4693867120e",
+    "hellaswag_hr": "e671595c6f769e152edb0482b72fcddff297bd7a272bdbd30e235ab4570bcc29",
+    "hellaswag_hi": "5d5393008aeec092f3fd9b1449f0cf422751c42ea6f355b7e3184a3ed84fd3ad",
+    "hellaswag_gu": "79dee01f71781154ae19f81c3b07140595abd7b2512f04610e88e705e6020b6d",
+    "hellaswag_fr": "4de95dc421d3ac51d6bdfb16e6d2a7b3898baabb5032bd913896d845d17e2da3",
+    "hellaswag_eu": "7ba780dfa49afa8b371e391d3146ca6899bf018d64f1b30a883ef3603e3f2b95",
+    "hellaswag_es": "2ec6dcd1805a179650a05b04d058e97fcdcb0ebecd313d29abd20509cfd8c654",
+    "hellaswag_de": "61080da03758da7939b7be2f9bb39ee5b25104e319f5e0e0b643a83a595593f2",
+    "hellaswag_da": "3de1221290f5d4df0cb8abb650f4e5ce114f822a044ce376597e71d15221f2f2",
+    "hellaswag_ca": "c66ee131270cdfbfc59014f47c9aa09b669b1b566f21ede1454a814aeedf420f",
+    "hellaswag_bn": "35ec3e45fd5b2218a0a6012641d301fba08d680cb9ab124aa0202fac4fa9046a",
+    "hellaswag_ar": "178ad1b92cb533866a89538017e1e61aed4197c8a16f9cba1b1e1a6b238e920b",
+    "hellaswag": "615d34f62d5a763262ff4f500e3156612fd37ce0943fba440f8483b34e9c676b"
+  },
+  "model_source": "hf",
+  "model_name": "/NS/llm-1/nobackup/afkhan/Model_Saves/aya-23-35B",
+  "model_name_sanitized": "__NS__llm-1__nobackup__afkhan__Model_Saves__aya-23-35B",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": "{{ bos_token }}{% if messages[0]['role'] == 'system' %}{% set loop_messages = messages[1:] %}{% set system_message = messages[0]['content'] %}{% elif false == true %}{% set loop_messages = messages %}{% set system_message = 'You are Command-R, a brilliant, sophisticated, AI-assistant trained to assist human users by providing thorough responses. You are trained by Cohere.' %}{% else %}{% set loop_messages = messages %}{% set system_message = false %}{% endif %}{% if system_message != false %}{{ '<|START_OF_TURN_TOKEN|><|SYSTEM_TOKEN|>' + system_message + '<|END_OF_TURN_TOKEN|>' }}{% endif %}{% for message in loop_messages %}{% if (message['role'] == 'user') != (loop.index0 % 2 == 0) %}{{ raise_exception('Conversation roles must alternate user/assistant/user/assistant/...') }}{% endif %}{% set content = message['content'] %}{% if message['role'] == 'user' %}{{ '<|START_OF_TURN_TOKEN|><|USER_TOKEN|>' + content.strip() + '<|END_OF_TURN_TOKEN|>' }}{% elif message['role'] == 'assistant' %}{{ '<|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>'  + content.strip() + '<|END_OF_TURN_TOKEN|>' }}{% endif %}{% endfor %}{% if add_generation_prompt %}{{ '<|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>' }}{% endif %}",
+  "chat_template_sha": "9db2cf47ce03bfd0aab6ec59942503714fa0372f09f7e1d54cbcd71a1110b863",
+  "start_time": 383.755969552,
+  "end_time": 140802.286795725,
+  "total_evaluation_time_seconds": "140418.530826173"
+}
