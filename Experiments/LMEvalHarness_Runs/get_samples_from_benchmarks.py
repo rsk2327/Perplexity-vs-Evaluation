@@ -42,8 +42,8 @@ def main(args):
         arguments = get_arguments_from_file(os.path.join(samples_dir, file))
         df = pd.concat(arguments)
 
-        # Filename split assuming there are no extra dots in the filename, change if there are
-        df.to_feather(f"{output_folder}/{file.split('.')[0]}.feather")
+        filename_only = os.path.splitext(os.path.basename(file))[0]
+        df.to_feather(f"{output_folder}/{filename_only}.feather")
 
 
 def get_arguments_from_file(file_path):
