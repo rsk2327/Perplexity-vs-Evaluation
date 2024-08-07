@@ -45,4 +45,4 @@ else:
 
 print(run_command)
 
-os.system(run_command)
+# os.system(run_command)
