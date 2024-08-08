@@ -1,0 +1,18 @@
+/NS/llm-1/nobackup/afkhan/anaconda3/envs/lmevalharnessenv/lib/python3.10/site-packages/transformers/utils/hub.py:127: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+wandb: Currently logged in as: aflah. Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.17.6 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.17.4
+wandb: Run data is saved locally in /NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/wandb/run-20240808_133935-1vqpw5je
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run aya_23_35B_chat_ppl_hellaswag_with_okapi_with_template
+wandb: ⭐️ View project at https://wandb.ai/aflah/PPL_vs_Eval
+wandb: 🚀 View run at https://wandb.ai/aflah/PPL_vs_Eval/runs/1vqpw5je
+2024-08-08:13:39:55,103 INFO     [__main__.py:272] Verbosity set to INFO
+2024-08-08:13:40:59,540 INFO     [__main__.py:369] Selected Tasks: ['hellaswag_ar_chat_ppl', 'hellaswag_bn_chat_ppl', 'hellaswag_ca_chat_ppl', 'hellaswag_chat_ppl', 'hellaswag_da_chat_ppl', 'hellaswag_de_chat_ppl', 'hellaswag_es_chat_ppl', 'hellaswag_eu_chat_ppl', 'hellaswag_fr_chat_ppl', 'hellaswag_gu_chat_ppl', 'hellaswag_hi_chat_ppl', 'hellaswag_hr_chat_ppl', 'hellaswag_hu_chat_ppl', 'hellaswag_hy_chat_ppl', 'hellaswag_id_chat_ppl', 'hellaswag_it_chat_ppl', 'hellaswag_kn_chat_ppl', 'hellaswag_ml_chat_ppl', 'hellaswag_mr_chat_ppl', 'hellaswag_ne_chat_ppl', 'hellaswag_nl_chat_ppl', 'hellaswag_pt_chat_ppl', 'hellaswag_ro_chat_ppl', 'hellaswag_ru_chat_ppl', 'hellaswag_sk_chat_ppl', 'hellaswag_sr_chat_ppl', 'hellaswag_sv_chat_ppl', 'hellaswag_ta_chat_ppl', 'hellaswag_te_chat_ppl', 'hellaswag_uk_chat_ppl', 'hellaswag_vi_chat_ppl']
+2024-08-08:13:40:59,711 INFO     [evaluator.py:152] Setting random seed to 42 | Setting numpy seed to 42 | Setting torch manual seed to 42
+2024-08-08:13:40:59,712 INFO     [evaluator.py:189] Initializing hf model, with arguments: {'pretrained': '/NS/llm-1/nobackup/afkhan/Model_Saves/aya-23-35B'}
+2024-08-08:13:41:00,048 INFO     [huggingface.py:170] Using device 'cuda'
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Loading checkpoint shards:   0%|          | 0/15 [00:00<?, ?it/s]Loading checkpoint shards:   7%|▋         | 1/15 [00:41<09:40, 41.45s/it]Loading checkpoint shards:  13%|█▎        | 2/15 [01:25<09:19, 43.06s/it]

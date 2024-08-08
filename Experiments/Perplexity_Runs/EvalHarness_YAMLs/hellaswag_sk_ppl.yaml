@@ -1,0 +1,19 @@
+dataset_kwargs:
+  data_files: /NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_sk_2024-08-04T14-52-52.186900_no_template.jsonl
+  trust_remote_code: true
+dataset_name: null
+dataset_path: json
+doc_to_decontamination_query: null
+doc_to_target: text
+doc_to_text: ''
+metric_list:
+- metric: word_perplexity
+- metric: byte_perplexity
+- metric: bits_per_byte
+output_type: loglikelihood_rolling
+process_results: '!function preprocess_wikitext.process_results'
+should_decontaminate: false
+task: hellaswag_sk_ppl
+test_split: train
+training_split: null
+validation_split: null
