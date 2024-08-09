@@ -1,0 +1,1679 @@
+{
+  "results": {
+    "hellaswag_vi_ppl": {
+      "word_perplexity,none": 31.29426894218479,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.776715447471728,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.8292126428783633,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_vi_ppl"
+    },
+    "hellaswag_uk_ppl": {
+      "word_perplexity,none": 219.68832005125154,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.5648381250723051,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.6460134250594238,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_uk_ppl"
+    },
+    "hellaswag_te_ppl": {
+      "word_perplexity,none": 215776.49001586664,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.91163854723826,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.9348097642165714,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_te_ppl"
+    },
+    "hellaswag_ta_ppl": {
+      "word_perplexity,none": 25369.36020608068,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.5835618115983359,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.6631731815725849,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ta_ppl"
+    },
+    "hellaswag_sv_ppl": {
+      "word_perplexity,none": 269.71328133381627,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.450471229836772,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.2930592086470896,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_sv_ppl"
+    },
+    "hellaswag_sr_ppl": {
+      "word_perplexity,none": 868.7193144889684,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.768750196279509,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.469234895941774,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_sr_ppl"
+    },
+    "hellaswag_sk_ppl": {
+      "word_perplexity,none": 680.4140077215386,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.515104910044071,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.3306185789746017,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_sk_ppl"
+    },
+    "hellaswag_ru_ppl": {
+      "word_perplexity,none": 142.71911986367573,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.497635525645295,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.5826865628333677,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ru_ppl"
+    },
+    "hellaswag_ro_ppl": {
+      "word_perplexity,none": 71.93701309853117,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.9346842856088309,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.9520981571973243,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ro_ppl"
+    },
+    "hellaswag_pt_ppl": {
+      "word_perplexity,none": 45.6474914694924,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.8758069789692922,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.9075113817921802,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_pt_ppl"
+    },
+    "hellaswag_ppl": {
+      "word_perplexity,none": 29.714389730248666,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.8410558838186821,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.8805334192377583,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ppl"
+    },
+    "hellaswag_nl_ppl": {
+      "word_perplexity,none": 59.80624303217699,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.9702695979402065,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.9783930515089195,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_nl_ppl"
+    },
+    "hellaswag_ne_ppl": {
+      "word_perplexity,none": 18810.133536076984,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.8345247539831102,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.8754063715844024,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ne_ppl"
+    },
+    "hellaswag_mr_ppl": {
+      "word_perplexity,none": 33257.876270252505,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.8866235834037848,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.9158066070783678,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_mr_ppl"
+    },
+    "hellaswag_ml_ppl": {
+      "word_perplexity,none": 99702.2860988399,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.5999289989704446,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.6780078831713463,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ml_ppl"
+    },
+    "hellaswag_kn_ppl": {
+      "word_perplexity,none": 246491.82844374838,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.8073337437141508,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.8538629400389225,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_kn_ppl"
+    },
+    "hellaswag_it_ppl": {
+      "word_perplexity,none": 50.12076472273658,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.8783667519008562,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.9094787773104586,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_it_ppl"
+    },
+    "hellaswag_id_ppl": {
+      "word_perplexity,none": 104.09052981349424,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.942295876834595,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.9577629883615231,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_id_ppl"
+    },
+    "hellaswag_hy_ppl": {
+      "word_perplexity,none": 206703.25588385746,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.583044193177869,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.369072326666575,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_hy_ppl"
+    },
+    "hellaswag_hu_ppl": {
+      "word_perplexity,none": 2642.1277830722975,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.7698336071345357,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.4697993115191874,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_hu_ppl"
+    },
+    "hellaswag_hr_ppl": {
+      "word_perplexity,none": 924.5798185686601,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.7576806251395003,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.4634553838977988,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_hr_ppl"
+    },
+    "hellaswag_hi_ppl": {
+      "word_perplexity,none": 88.94152037631846,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.4353921554867066,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.5214449414199293,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_hi_ppl"
+    },
+    "hellaswag_gu_ppl": {
+      "word_perplexity,none": 6822.165024870745,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.8765278995210333,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.9080657398392891,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_gu_ppl"
+    },
+    "hellaswag_fr_ppl": {
+      "word_perplexity,none": 37.47548868266889,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.7740429859032267,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.8270409672478124,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_fr_ppl"
+    },
+    "hellaswag_eu_ppl": {
+      "word_perplexity,none": 64114.219615528156,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 4.314363686778401,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 2.1091477961080622,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_eu_ppl"
+    },
+    "hellaswag_es_ppl": {
+      "word_perplexity,none": 43.36251230917975,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.863122683320151,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.8977226763139378,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_es_ppl"
+    },
+    "hellaswag_de_ppl": {
+      "word_perplexity,none": 63.5699548306627,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.8469552902282393,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.8851489430140663,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_de_ppl"
+    },
+    "hellaswag_da_ppl": {
+      "word_perplexity,none": 269.83168364419333,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.5002195726936005,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.3220547998977206,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_da_ppl"
+    },
+    "hellaswag_ca_ppl": {
+      "word_perplexity,none": 225.67911182951104,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.480287242042532,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.3105072087869023,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ca_ppl"
+    },
+    "hellaswag_bn_ppl": {
+      "word_perplexity,none": 3253.44568453788,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.680625662608902,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.7489984188998671,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_bn_ppl"
+    },
+    "hellaswag_ar_ppl": {
+      "word_perplexity,none": 204.7456340275026,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.6997073358748256,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.7652863572862922,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ar_ppl"
+    }
+  },
+  "group_subtasks": {
+    "hellaswag_ar_ppl": [],
+    "hellaswag_bn_ppl": [],
+    "hellaswag_ca_ppl": [],
+    "hellaswag_da_ppl": [],
+    "hellaswag_de_ppl": [],
+    "hellaswag_es_ppl": [],
+    "hellaswag_eu_ppl": [],
+    "hellaswag_fr_ppl": [],
+    "hellaswag_gu_ppl": [],
+    "hellaswag_hi_ppl": [],
+    "hellaswag_hr_ppl": [],
+    "hellaswag_hu_ppl": [],
+    "hellaswag_hy_ppl": [],
+    "hellaswag_id_ppl": [],
+    "hellaswag_it_ppl": [],
+    "hellaswag_kn_ppl": [],
+    "hellaswag_ml_ppl": [],
+    "hellaswag_mr_ppl": [],
+    "hellaswag_ne_ppl": [],
+    "hellaswag_nl_ppl": [],
+    "hellaswag_ppl": [],
+    "hellaswag_pt_ppl": [],
+    "hellaswag_ro_ppl": [],
+    "hellaswag_ru_ppl": [],
+    "hellaswag_sk_ppl": [],
+    "hellaswag_sr_ppl": [],
+    "hellaswag_sv_ppl": [],
+    "hellaswag_ta_ppl": [],
+    "hellaswag_te_ppl": [],
+    "hellaswag_uk_ppl": [],
+    "hellaswag_vi_ppl": []
+  },
+  "configs": {
+    "hellaswag_ar_ppl": {
+      "task": "hellaswag_ar_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ar_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_bn_ppl": {
+      "task": "hellaswag_bn_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_bn_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ca_ppl": {
+      "task": "hellaswag_ca_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ca_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_da_ppl": {
+      "task": "hellaswag_da_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_da_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_de_ppl": {
+      "task": "hellaswag_de_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_de_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_es_ppl": {
+      "task": "hellaswag_es_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_es_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_eu_ppl": {
+      "task": "hellaswag_eu_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_eu_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_fr_ppl": {
+      "task": "hellaswag_fr_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_fr_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_gu_ppl": {
+      "task": "hellaswag_gu_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_gu_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_hi_ppl": {
+      "task": "hellaswag_hi_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_hi_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_hr_ppl": {
+      "task": "hellaswag_hr_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_hr_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_hu_ppl": {
+      "task": "hellaswag_hu_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_hu_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_hy_ppl": {
+      "task": "hellaswag_hy_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_hy_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_id_ppl": {
+      "task": "hellaswag_id_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_id_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_it_ppl": {
+      "task": "hellaswag_it_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_it_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_kn_ppl": {
+      "task": "hellaswag_kn_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_kn_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ml_ppl": {
+      "task": "hellaswag_ml_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ml_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_mr_ppl": {
+      "task": "hellaswag_mr_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_mr_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ne_ppl": {
+      "task": "hellaswag_ne_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ne_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_nl_ppl": {
+      "task": "hellaswag_nl_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_nl_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ppl": {
+      "task": "hellaswag_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_pt_ppl": {
+      "task": "hellaswag_pt_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_pt_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ro_ppl": {
+      "task": "hellaswag_ro_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ro_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ru_ppl": {
+      "task": "hellaswag_ru_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ru_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_sk_ppl": {
+      "task": "hellaswag_sk_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_sk_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_sr_ppl": {
+      "task": "hellaswag_sr_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_sr_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_sv_ppl": {
+      "task": "hellaswag_sv_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_sv_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ta_ppl": {
+      "task": "hellaswag_ta_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ta_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_te_ppl": {
+      "task": "hellaswag_te_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_te_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_uk_ppl": {
+      "task": "hellaswag_uk_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_uk_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_vi_ppl": {
+      "task": "hellaswag_vi_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_vi_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "text",
+      "process_results": "!function preprocess_wikitext.process_results",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    }
+  },
+  "versions": {
+    "hellaswag_ar_ppl": "Yaml",
+    "hellaswag_bn_ppl": "Yaml",
+    "hellaswag_ca_ppl": "Yaml",
+    "hellaswag_da_ppl": "Yaml",
+    "hellaswag_de_ppl": "Yaml",
+    "hellaswag_es_ppl": "Yaml",
+    "hellaswag_eu_ppl": "Yaml",
+    "hellaswag_fr_ppl": "Yaml",
+    "hellaswag_gu_ppl": "Yaml",
+    "hellaswag_hi_ppl": "Yaml",
+    "hellaswag_hr_ppl": "Yaml",
+    "hellaswag_hu_ppl": "Yaml",
+    "hellaswag_hy_ppl": "Yaml",
+    "hellaswag_id_ppl": "Yaml",
+    "hellaswag_it_ppl": "Yaml",
+    "hellaswag_kn_ppl": "Yaml",
+    "hellaswag_ml_ppl": "Yaml",
+    "hellaswag_mr_ppl": "Yaml",
+    "hellaswag_ne_ppl": "Yaml",
+    "hellaswag_nl_ppl": "Yaml",
+    "hellaswag_ppl": "Yaml",
+    "hellaswag_pt_ppl": "Yaml",
+    "hellaswag_ro_ppl": "Yaml",
+    "hellaswag_ru_ppl": "Yaml",
+    "hellaswag_sk_ppl": "Yaml",
+    "hellaswag_sr_ppl": "Yaml",
+    "hellaswag_sv_ppl": "Yaml",
+    "hellaswag_ta_ppl": "Yaml",
+    "hellaswag_te_ppl": "Yaml",
+    "hellaswag_uk_ppl": "Yaml",
+    "hellaswag_vi_ppl": "Yaml"
+  },
+  "n-shot": {
+    "hellaswag_ar_ppl": 0,
+    "hellaswag_bn_ppl": 0,
+    "hellaswag_ca_ppl": 0,
+    "hellaswag_da_ppl": 0,
+    "hellaswag_de_ppl": 0,
+    "hellaswag_es_ppl": 0,
+    "hellaswag_eu_ppl": 0,
+    "hellaswag_fr_ppl": 0,
+    "hellaswag_gu_ppl": 0,
+    "hellaswag_hi_ppl": 0,
+    "hellaswag_hr_ppl": 0,
+    "hellaswag_hu_ppl": 0,
+    "hellaswag_hy_ppl": 0,
+    "hellaswag_id_ppl": 0,
+    "hellaswag_it_ppl": 0,
+    "hellaswag_kn_ppl": 0,
+    "hellaswag_ml_ppl": 0,
+    "hellaswag_mr_ppl": 0,
+    "hellaswag_ne_ppl": 0,
+    "hellaswag_nl_ppl": 0,
+    "hellaswag_ppl": 0,
+    "hellaswag_pt_ppl": 0,
+    "hellaswag_ro_ppl": 0,
+    "hellaswag_ru_ppl": 0,
+    "hellaswag_sk_ppl": 0,
+    "hellaswag_sr_ppl": 0,
+    "hellaswag_sv_ppl": 0,
+    "hellaswag_ta_ppl": 0,
+    "hellaswag_te_ppl": 0,
+    "hellaswag_uk_ppl": 0,
+    "hellaswag_vi_ppl": 0
+  },
+  "higher_is_better": {
+    "hellaswag_ar_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_bn_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ca_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_da_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_de_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_es_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_eu_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_fr_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_gu_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_hi_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_hr_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_hu_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_hy_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_id_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_it_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_kn_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ml_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_mr_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ne_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_nl_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_pt_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ro_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ru_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_sk_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_sr_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_sv_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ta_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_te_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_uk_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_vi_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    }
+  },
+  "n-samples": {
+    "hellaswag_vi_ppl": {
+      "original": 9162,
+      "effective": 9162
+    },
+    "hellaswag_uk_ppl": {
+      "original": 9409,
+      "effective": 9409
+    },
+    "hellaswag_te_ppl": {
+      "original": 8724,
+      "effective": 8724
+    },
+    "hellaswag_ta_ppl": {
+      "original": 8413,
+      "effective": 8413
+    },
+    "hellaswag_sv_ppl": {
+      "original": 9122,
+      "effective": 9122
+    },
+    "hellaswag_sr_ppl": {
+      "original": 9449,
+      "effective": 9449
+    },
+    "hellaswag_sk_ppl": {
+      "original": 9485,
+      "effective": 9485
+    },
+    "hellaswag_ru_ppl": {
+      "original": 9272,
+      "effective": 9272
+    },
+    "hellaswag_ro_ppl": {
+      "original": 9245,
+      "effective": 9245
+    },
+    "hellaswag_pt_ppl": {
+      "original": 9229,
+      "effective": 9229
+    },
+    "hellaswag_ppl": {
+      "original": 10042,
+      "effective": 10042
+    },
+    "hellaswag_nl_ppl": {
+      "original": 9265,
+      "effective": 9265
+    },
+    "hellaswag_ne_ppl": {
+      "original": 9318,
+      "effective": 9318
+    },
+    "hellaswag_mr_ppl": {
+      "original": 9279,
+      "effective": 9279
+    },
+    "hellaswag_ml_ppl": {
+      "original": 8933,
+      "effective": 8933
+    },
+    "hellaswag_kn_ppl": {
+      "original": 8862,
+      "effective": 8862
+    },
+    "hellaswag_it_ppl": {
+      "original": 9193,
+      "effective": 9193
+    },
+    "hellaswag_id_ppl": {
+      "original": 9314,
+      "effective": 9314
+    },
+    "hellaswag_hy_ppl": {
+      "original": 8632,
+      "effective": 8632
+    },
+    "hellaswag_hu_ppl": {
+      "original": 9119,
+      "effective": 9119
+    },
+    "hellaswag_hr_ppl": {
+      "original": 9471,
+      "effective": 9471
+    },
+    "hellaswag_hi_ppl": {
+      "original": 9416,
+      "effective": 9416
+    },
+    "hellaswag_gu_ppl": {
+      "original": 8803,
+      "effective": 8803
+    },
+    "hellaswag_fr_ppl": {
+      "original": 9338,
+      "effective": 9338
+    },
+    "hellaswag_eu_ppl": {
+      "original": 9255,
+      "effective": 9255
+    },
+    "hellaswag_es_ppl": {
+      "original": 9374,
+      "effective": 9374
+    },
+    "hellaswag_de_ppl": {
+      "original": 9368,
+      "effective": 9368
+    },
+    "hellaswag_da_ppl": {
+      "original": 9305,
+      "effective": 9305
+    },
+    "hellaswag_ca_ppl": {
+      "original": 9211,
+      "effective": 9211
+    },
+    "hellaswag_bn_ppl": {
+      "original": 9242,
+      "effective": 9242
+    },
+    "hellaswag_ar_ppl": {
+      "original": 9176,
+      "effective": 9176
+    }
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=/NS/llm-1/nobackup/afkhan/Model_Saves/aya-23-35B",
+    "model_num_parameters": 34980831232,
+    "model_dtype": "torch.float16",
+    "model_revision": "main",
+    "model_sha": "",
+    "batch_size": "auto",
+    "batch_sizes": [],
+    "device": null,
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 42,
+    "numpy_seed": 42,
+    "torch_seed": 42,
+    "fewshot_seed": 42
+  },
+  "git_hash": "faf8117",
+  "date": 1723102963.1581864,
+  "pretty_env_info": "PyTorch version: 2.3.1+cu121\nIs debug build: False\nCUDA used to build PyTorch: 12.1\nROCM used to build PyTorch: N/A\n\nOS: Debian GNU/Linux 12 (bookworm) (x86_64)\nGCC version: (Debian 12.2.0-14) 12.2.0\nClang version: 14.0.6\nCMake version: version 3.25.1\nLibc version: glibc-2.36\n\nPython version: 3.10.14 | packaged by conda-forge | (main, Mar 20 2024, 12:45:18) [GCC 12.3.0] (64-bit runtime)\nPython platform: Linux-6.1.92.1.amd64-smp-x86_64-with-glibc2.36\nIs CUDA available: True\nCUDA runtime version: 11.8.89\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: \nGPU 0: NVIDIA A100 80GB PCIe\nGPU 1: NVIDIA A100 80GB PCIe\nGPU 2: NVIDIA A100 80GB PCIe\nGPU 3: NVIDIA A100 80GB PCIe\nGPU 4: NVIDIA A100 80GB PCIe\nGPU 5: NVIDIA A100 80GB PCIe\nGPU 6: NVIDIA A100 80GB PCIe\nGPU 7: NVIDIA A100 80GB PCIe\n\nNvidia driver version: 550.54.14\ncuDNN version: Could not collect\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                         x86_64\nCPU op-mode(s):                       32-bit, 64-bit\nAddress sizes:                        46 bits physical, 57 bits virtual\nByte Order:                           Little Endian\nCPU(s):                               144\nOn-line CPU(s) list:                  0-143\nVendor ID:                            GenuineIntel\nModel name:                           Intel(R) Xeon(R) Platinum 8360Y CPU @ 2.40GHz\nCPU family:                           6\nModel:                                106\nThread(s) per core:                   2\nCore(s) per socket:                   36\nSocket(s):                            2\nStepping:                             6\nBogoMIPS:                             4800.00\nFlags:                                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 invpcid_single intel_ppin ssbd mba ibrs ibpb stibp ibrs_enhanced tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm rdt_a avx512f avx512dq rdseed adx smap avx512ifma clflushopt clwb intel_pt avx512cd sha_ni avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local split_lock_detect wbnoinvd dtherm ida arat pln pts hwp_epp avx512vbmi umip pku ospke avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg tme avx512_vpopcntdq la57 rdpid fsrm md_clear pconfig flush_l1d arch_capabilities\nVirtualization:                       VT-x\nL1d cache:                            3.4 MiB (72 instances)\nL1i cache:                            2.3 MiB (72 instances)\nL2 cache:                             90 MiB (72 instances)\nL3 cache:                             108 MiB (2 instances)\nNUMA node(s):                         2\nNUMA node0 CPU(s):                    0-35,72-107\nNUMA node1 CPU(s):                    36-71,108-143\nVulnerability Gather data sampling:   Mitigation; Microcode\nVulnerability Itlb multihit:          Not affected\nVulnerability L1tf:                   Not affected\nVulnerability Mds:                    Not affected\nVulnerability Meltdown:               Not affected\nVulnerability Mmio stale data:        Mitigation; Clear CPU buffers; SMT vulnerable\nVulnerability Reg file data sampling: Not affected\nVulnerability Retbleed:               Not affected\nVulnerability Spec rstack overflow:   Not affected\nVulnerability Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:             Mitigation; Enhanced / Automatic IBRS; IBPB conditional; RSB filling; PBRSB-eIBRS SW sequence; BHI SW loop, KVM SW loop\nVulnerability Srbds:                  Not affected\nVulnerability Tsx async abort:        Not affected\n\nVersions of relevant libraries:\n[pip3] numpy==1.26.4\n[pip3] torch==2.3.1\n[pip3] triton==2.3.1\n[conda] numpy                     1.26.4                   pypi_0    pypi\n[conda] torch                     2.3.1                    pypi_0    pypi\n[conda] triton                    2.3.1                    pypi_0    pypi",
+  "transformers_version": "4.42.3",
+  "upper_git_hash": null,
+  "tokenizer_pad_token": [
+    "<PAD>",
+    0
+  ],
+  "tokenizer_eos_token": [
+    "<|END_OF_TURN_TOKEN|>",
+    255001
+  ],
+  "tokenizer_bos_token": [
+    "<BOS_TOKEN>",
+    5
+  ],
+  "eot_token_id": 255001,
+  "max_length": 8192,
+  "task_hashes": {
+    "hellaswag_vi_ppl": "6e8cea978eaae9f61c963783b11e09bc3e9e4ca0aa4793a13366c3c7ac2937ab",
+    "hellaswag_uk_ppl": "0ac89c12206ee303be9c7aef700b510e13719f9397a462371ad8ae631ccdac71",
+    "hellaswag_te_ppl": "d41323afbdc196ae15554b549da9ae38976ec06be789780e8386041d2078c1b0",
+    "hellaswag_ta_ppl": "1ccad3c9105709a3fecf2b4f358bd69a9b93d81161eb75073a2febe62a1175db",
+    "hellaswag_sv_ppl": "f47a7b525436fd15726f5bc59c69c0d5c16b4561e21b96328d57e36b4abacade",
+    "hellaswag_sr_ppl": "1f22c0a1b88b71800f222714755edceec104b209aa7a15e305fa59e021a006bc",
+    "hellaswag_sk_ppl": "cb3bc6a8fcbd663f28e4bef7a3de08ee9b5b574e02119e82b8c468f91a7f6e18",
+    "hellaswag_ru_ppl": "ef2f2159ffbc291ede9c689211ed52a3a2f36e99119bdf53e6c19eb6a55678c2",
+    "hellaswag_ro_ppl": "5c613d393cd39502eb779bb902fbdafb8352c7ed35b8a1c007129330fa9f7a47",
+    "hellaswag_pt_ppl": "2a0023b74b8acc445ade56a4c12210b27d0e8100e243f6cd6317ea6b77ebb2ac",
+    "hellaswag_ppl": "9ac564dc4e4b6ed5a65525a91675efe7a6e04c7aa35ac196b860d8a4f104bbad",
+    "hellaswag_nl_ppl": "18e0131944da7ec7804d69894f70bd01bd77978f0f38dcef00df61a184c6f818",
+    "hellaswag_ne_ppl": "26af53a880c2a0d9b8db919515fe5f71b46a743797c93c8ecb1eebdecdd1496c",
+    "hellaswag_mr_ppl": "dcef7a9de9d2ab1da6a29e4993f8ee33e35717ff61cf2684ca739cec6dc44d4f",
+    "hellaswag_ml_ppl": "e4dcdf4a1939528dd48d685a478e0163341ec1787dca2f1d54ec8be68e177a76",
+    "hellaswag_kn_ppl": "a7be9278787b5c873c1bdb3ce9e6690902250645a71f6ade91ed225bce05cfb2",
+    "hellaswag_it_ppl": "ea2426399c44ca968418f8abf27b3b60b0d7360add861f3ce444a453e2d32b3b",
+    "hellaswag_id_ppl": "d6de54b46b11ce9b03c15741e466677b70bc69d32e20c91b48f449b4fc4fde41",
+    "hellaswag_hy_ppl": "75e468036477ab502247aa4d6a9508174717f3b1d118dda98316f77095f077e5",
+    "hellaswag_hu_ppl": "ab761df26d47dc18b4e771e148f89358350d8e9b9ccaa4111eee767a9a43602e",
+    "hellaswag_hr_ppl": "52c1fa6e43bed911f05db21c0e07d7b786388e7c613ee455fe119b238045110e",
+    "hellaswag_hi_ppl": "5336ef169390078857f3af9211d7d0864e28cf3203795e4d59d33660e06aebaa",
+    "hellaswag_gu_ppl": "08ce6204b6131c5a75d134ec8803a8dbcc84c56b2eb73564dee6c00f7eedcb21",
+    "hellaswag_fr_ppl": "b300e8d9069b0fa196c37b41751fed0d4d115e36dabc0908e8a693855031307b",
+    "hellaswag_eu_ppl": "72a1393e423f896cc5b9784154fd72855a9d3f12c1a5839d8a277547eabe72cf",
+    "hellaswag_es_ppl": "86b1d66efacea4625c9e2f6d68bb57379e01bcde1a5e779cc521d05a955b34ec",
+    "hellaswag_de_ppl": "68699598eff3032286b231ae67eee20ee73a7b7b6f5e9a9a1da2ba25e744422f",
+    "hellaswag_da_ppl": "5dc8654cf1e1583c59ae73e9fa9d08527fbf13b3581ee9141d5290f5fefd84b5",
+    "hellaswag_ca_ppl": "488fe17a65c81f39cd9c5d5e89c215a6cb475d65af650409c44ce5a16f4e75f5",
+    "hellaswag_bn_ppl": "b25efcde4bc1f54ed5c9dc6fbe6df24ea20afb764dfad10832b7d4815be215e9",
+    "hellaswag_ar_ppl": "abe14e39f7a0ed4b90382ab8a1cd9e7206a5d31901456e37d17bb56394e9857b"
+  },
+  "model_source": "hf",
+  "model_name": "/NS/llm-1/nobackup/afkhan/Model_Saves/aya-23-35B",
+  "model_name_sanitized": "__NS__llm-1__nobackup__afkhan__Model_Saves__aya-23-35B",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": null,
+  "chat_template_sha": null,
+  "start_time": 322.899841479,
+  "end_time": 26240.094502335,
+  "total_evaluation_time_seconds": "25917.194660856"
+}

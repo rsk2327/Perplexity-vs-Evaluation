@@ -1,0 +1,1679 @@
+{
+  "results": {
+    "hellaswag_vi_chat_ppl": {
+      "word_perplexity,none": 137.83672661279945,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.2755977223215664,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.1862455421318534,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_vi_chat_ppl"
+    },
+    "hellaswag_uk_chat_ppl": {
+      "word_perplexity,none": 2134.535070761354,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.8900510987382393,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.9184252391551904,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_uk_chat_ppl"
+    },
+    "hellaswag_te_chat_ppl": {
+      "word_perplexity,none": 7901473.151978529,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.311543269019985,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.2088563681617002,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_te_chat_ppl"
+    },
+    "hellaswag_ta_chat_ppl": {
+      "word_perplexity,none": 290737.38511191605,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.7686634425279273,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.8226595449246781,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ta_chat_ppl"
+    },
+    "hellaswag_sv_chat_ppl": {
+      "word_perplexity,none": 5082.080128489648,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 3.9213173246117,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.9713383937340687,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_sv_chat_ppl"
+    },
+    "hellaswag_sr_chat_ppl": {
+      "word_perplexity,none": 26986.50526364967,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 4.6436668357984825,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 2.2152644684172142,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_sr_chat_ppl"
+    },
+    "hellaswag_sk_chat_ppl": {
+      "word_perplexity,none": 18789.296459280384,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 4.020998551858835,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 2.007553816559449,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_sk_chat_ppl"
+    },
+    "hellaswag_ru_chat_ppl": {
+      "word_perplexity,none": 1317.2006668040872,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.7946715131054518,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.8437198051727057,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ru_chat_ppl"
+    },
+    "hellaswag_ro_chat_ppl": {
+      "word_perplexity,none": 485.990162095362,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.59815921613225,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.3774898423663267,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ro_chat_ppl"
+    },
+    "hellaswag_pt_chat_ppl": {
+      "word_perplexity,none": 274.6896872621356,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.5206014271162323,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.333768008484745,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_pt_chat_ppl"
+    },
+    "hellaswag_nl_chat_ppl": {
+      "word_perplexity,none": 503.4423031178806,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.8047468188501843,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.4878705463511,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_nl_chat_ppl"
+    },
+    "hellaswag_ne_chat_ppl": {
+      "word_perplexity,none": 550210.968715702,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.2589855586668706,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.1756750478419822,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ne_chat_ppl"
+    },
+    "hellaswag_mr_chat_ppl": {
+      "word_perplexity,none": 1046493.2000261545,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.328111772383293,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.219160323534918,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_mr_chat_ppl"
+    },
+    "hellaswag_ml_chat_ppl": {
+      "word_perplexity,none": 2158683.941239651,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.8139673928496998,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.8591485227921031,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ml_chat_ppl"
+    },
+    "hellaswag_kn_chat_ppl": {
+      "word_perplexity,none": 93040782.36264138,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.3981873570509795,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.2619443729012467,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_kn_chat_ppl"
+    },
+    "hellaswag_it_chat_ppl": {
+      "word_perplexity,none": 344.82318972296497,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.5625289507791353,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.3575683038998596,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_it_chat_ppl"
+    },
+    "hellaswag_id_chat_ppl": {
+      "word_perplexity,none": 817.1484887321878,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.607397568883029,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.3826105778583135,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_id_chat_ppl"
+    },
+    "hellaswag_hy_chat_ppl": {
+      "word_perplexity,none": 160936116.58987984,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 4.328253954196609,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 2.1137851497450146,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_hy_chat_ppl"
+    },
+    "hellaswag_hu_chat_ppl": {
+      "word_perplexity,none": 159295.33274003054,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 4.70584189639486,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 2.234452850711226,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_hu_chat_ppl"
+    },
+    "hellaswag_hr_chat_ppl": {
+      "word_perplexity,none": 30428.029586225788,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 4.63360672894424,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 2.2121356026234134,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_hr_chat_ppl"
+    },
+    "hellaswag_hi_chat_ppl": {
+      "word_perplexity,none": 578.1351678573652,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 1.6689342760048784,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 0.7389271413099527,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_hi_chat_ppl"
+    },
+    "hellaswag_gu_chat_ppl": {
+      "word_perplexity,none": 100558.62817664807,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.2733576452471986,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.18482466718959,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_gu_chat_ppl"
+    },
+    "hellaswag_fr_chat_ppl": {
+      "word_perplexity,none": 225.38960963566646,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.356297527197022,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.2365217182475878,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_fr_chat_ppl"
+    },
+    "hellaswag_eu_chat_ppl": {
+      "word_perplexity,none": 1564552.3846171696,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 6.579204260604069,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 2.717913103914609,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_eu_chat_ppl"
+    },
+    "hellaswag_es_chat_ppl": {
+      "word_perplexity,none": 248.87095579390686,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.486038301877433,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.3138485238654396,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_es_chat_ppl"
+    },
+    "hellaswag_de_chat_ppl": {
+      "word_perplexity,none": 500.77288486038555,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.505594138862832,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.3251527429637273,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_de_chat_ppl"
+    },
+    "hellaswag_da_chat_ppl": {
+      "word_perplexity,none": 5643.6124049110595,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 4.112847622034693,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 2.040137622043206,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_da_chat_ppl"
+    },
+    "hellaswag_chat_ppl": {
+      "word_perplexity,none": 150.2953258856948,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.464626320320935,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.3013689258378103,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_chat_ppl"
+    },
+    "hellaswag_ca_chat_ppl": {
+      "word_perplexity,none": 2353.9156378636853,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 3.6744603738311117,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.877532393306585,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ca_chat_ppl"
+    },
+    "hellaswag_bn_chat_ppl": {
+      "word_perplexity,none": 51659.5064408789,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.0070372902402793,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.00506742185496,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_bn_chat_ppl"
+    },
+    "hellaswag_ar_chat_ppl": {
+      "word_perplexity,none": 2092.949071172945,
+      "word_perplexity_stderr,none": "N/A",
+      "byte_perplexity,none": 2.142901063813993,
+      "byte_perplexity_stderr,none": "N/A",
+      "bits_per_byte,none": 1.099565243369642,
+      "bits_per_byte_stderr,none": "N/A",
+      "alias": "hellaswag_ar_chat_ppl"
+    }
+  },
+  "group_subtasks": {
+    "hellaswag_ar_chat_ppl": [],
+    "hellaswag_bn_chat_ppl": [],
+    "hellaswag_ca_chat_ppl": [],
+    "hellaswag_chat_ppl": [],
+    "hellaswag_da_chat_ppl": [],
+    "hellaswag_de_chat_ppl": [],
+    "hellaswag_es_chat_ppl": [],
+    "hellaswag_eu_chat_ppl": [],
+    "hellaswag_fr_chat_ppl": [],
+    "hellaswag_gu_chat_ppl": [],
+    "hellaswag_hi_chat_ppl": [],
+    "hellaswag_hr_chat_ppl": [],
+    "hellaswag_hu_chat_ppl": [],
+    "hellaswag_hy_chat_ppl": [],
+    "hellaswag_id_chat_ppl": [],
+    "hellaswag_it_chat_ppl": [],
+    "hellaswag_kn_chat_ppl": [],
+    "hellaswag_ml_chat_ppl": [],
+    "hellaswag_mr_chat_ppl": [],
+    "hellaswag_ne_chat_ppl": [],
+    "hellaswag_nl_chat_ppl": [],
+    "hellaswag_pt_chat_ppl": [],
+    "hellaswag_ro_chat_ppl": [],
+    "hellaswag_ru_chat_ppl": [],
+    "hellaswag_sk_chat_ppl": [],
+    "hellaswag_sr_chat_ppl": [],
+    "hellaswag_sv_chat_ppl": [],
+    "hellaswag_ta_chat_ppl": [],
+    "hellaswag_te_chat_ppl": [],
+    "hellaswag_uk_chat_ppl": [],
+    "hellaswag_vi_chat_ppl": []
+  },
+  "configs": {
+    "hellaswag_ar_chat_ppl": {
+      "task": "hellaswag_ar_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ar_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_bn_chat_ppl": {
+      "task": "hellaswag_bn_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_bn_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ca_chat_ppl": {
+      "task": "hellaswag_ca_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ca_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_chat_ppl": {
+      "task": "hellaswag_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_da_chat_ppl": {
+      "task": "hellaswag_da_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_da_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_de_chat_ppl": {
+      "task": "hellaswag_de_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_de_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_es_chat_ppl": {
+      "task": "hellaswag_es_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_es_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_eu_chat_ppl": {
+      "task": "hellaswag_eu_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_eu_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_fr_chat_ppl": {
+      "task": "hellaswag_fr_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_fr_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_gu_chat_ppl": {
+      "task": "hellaswag_gu_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_gu_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_hi_chat_ppl": {
+      "task": "hellaswag_hi_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_hi_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_hr_chat_ppl": {
+      "task": "hellaswag_hr_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_hr_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_hu_chat_ppl": {
+      "task": "hellaswag_hu_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_hu_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_hy_chat_ppl": {
+      "task": "hellaswag_hy_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_hy_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_id_chat_ppl": {
+      "task": "hellaswag_id_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_id_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_it_chat_ppl": {
+      "task": "hellaswag_it_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_it_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_kn_chat_ppl": {
+      "task": "hellaswag_kn_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_kn_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ml_chat_ppl": {
+      "task": "hellaswag_ml_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ml_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_mr_chat_ppl": {
+      "task": "hellaswag_mr_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_mr_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ne_chat_ppl": {
+      "task": "hellaswag_ne_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ne_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_nl_chat_ppl": {
+      "task": "hellaswag_nl_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_nl_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_pt_chat_ppl": {
+      "task": "hellaswag_pt_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_pt_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ro_chat_ppl": {
+      "task": "hellaswag_ro_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ro_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ru_chat_ppl": {
+      "task": "hellaswag_ru_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ru_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_sk_chat_ppl": {
+      "task": "hellaswag_sk_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_sk_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_sr_chat_ppl": {
+      "task": "hellaswag_sr_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_sr_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_sv_chat_ppl": {
+      "task": "hellaswag_sv_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_sv_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_ta_chat_ppl": {
+      "task": "hellaswag_ta_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_ta_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_te_chat_ppl": {
+      "task": "hellaswag_te_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_te_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_uk_chat_ppl": {
+      "task": "hellaswag_uk_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_uk_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    },
+    "hellaswag_vi_chat_ppl": {
+      "task": "hellaswag_vi_chat_ppl",
+      "dataset_path": "json",
+      "dataset_kwargs": {
+        "data_files": "/NS/llm-1/work/afkhan/Perplexity-vs-Evaluation/Experiments/Perplexity_Runs/Data/samples_hellaswag_vi_2024-08-04T14-52-52.186900_no_template.jsonl",
+        "trust_remote_code": true
+      },
+      "test_split": "train",
+      "doc_to_text": "",
+      "doc_to_target": "def apply_aya_chat_template(doc):\n    base_str = doc[\"text\"]\n    # Example Output for Aya Tokenizer - <BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>Roof shingle removal: A man is sitting on a roof. He<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\n    template_applied_str = \"<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>\" + base_str.strip() + \"<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>\"\n    return template_applied_str\n",
+      "process_results": "def process_results(doc, results):\n    (loglikelihood,) = results\n    # IMPORTANT: wikitext counts number of words in *original doc before detokenization*\n    _words = len(re.split(r\"\\s+\", doc[\"text\"]))\n    _bytes = len(doc[\"text\"].encode(\"utf-8\"))\n    return {\n        \"word_perplexity\": (loglikelihood, _words),\n        \"byte_perplexity\": (loglikelihood, _bytes),\n        \"bits_per_byte\": (loglikelihood, _bytes),\n    }\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "word_perplexity"
+        },
+        {
+          "metric": "byte_perplexity"
+        },
+        {
+          "metric": "bits_per_byte"
+        }
+      ],
+      "output_type": "loglikelihood_rolling",
+      "repeats": 1,
+      "should_decontaminate": false
+    }
+  },
+  "versions": {
+    "hellaswag_ar_chat_ppl": "Yaml",
+    "hellaswag_bn_chat_ppl": "Yaml",
+    "hellaswag_ca_chat_ppl": "Yaml",
+    "hellaswag_chat_ppl": "Yaml",
+    "hellaswag_da_chat_ppl": "Yaml",
+    "hellaswag_de_chat_ppl": "Yaml",
+    "hellaswag_es_chat_ppl": "Yaml",
+    "hellaswag_eu_chat_ppl": "Yaml",
+    "hellaswag_fr_chat_ppl": "Yaml",
+    "hellaswag_gu_chat_ppl": "Yaml",
+    "hellaswag_hi_chat_ppl": "Yaml",
+    "hellaswag_hr_chat_ppl": "Yaml",
+    "hellaswag_hu_chat_ppl": "Yaml",
+    "hellaswag_hy_chat_ppl": "Yaml",
+    "hellaswag_id_chat_ppl": "Yaml",
+    "hellaswag_it_chat_ppl": "Yaml",
+    "hellaswag_kn_chat_ppl": "Yaml",
+    "hellaswag_ml_chat_ppl": "Yaml",
+    "hellaswag_mr_chat_ppl": "Yaml",
+    "hellaswag_ne_chat_ppl": "Yaml",
+    "hellaswag_nl_chat_ppl": "Yaml",
+    "hellaswag_pt_chat_ppl": "Yaml",
+    "hellaswag_ro_chat_ppl": "Yaml",
+    "hellaswag_ru_chat_ppl": "Yaml",
+    "hellaswag_sk_chat_ppl": "Yaml",
+    "hellaswag_sr_chat_ppl": "Yaml",
+    "hellaswag_sv_chat_ppl": "Yaml",
+    "hellaswag_ta_chat_ppl": "Yaml",
+    "hellaswag_te_chat_ppl": "Yaml",
+    "hellaswag_uk_chat_ppl": "Yaml",
+    "hellaswag_vi_chat_ppl": "Yaml"
+  },
+  "n-shot": {
+    "hellaswag_ar_chat_ppl": 0,
+    "hellaswag_bn_chat_ppl": 0,
+    "hellaswag_ca_chat_ppl": 0,
+    "hellaswag_chat_ppl": 0,
+    "hellaswag_da_chat_ppl": 0,
+    "hellaswag_de_chat_ppl": 0,
+    "hellaswag_es_chat_ppl": 0,
+    "hellaswag_eu_chat_ppl": 0,
+    "hellaswag_fr_chat_ppl": 0,
+    "hellaswag_gu_chat_ppl": 0,
+    "hellaswag_hi_chat_ppl": 0,
+    "hellaswag_hr_chat_ppl": 0,
+    "hellaswag_hu_chat_ppl": 0,
+    "hellaswag_hy_chat_ppl": 0,
+    "hellaswag_id_chat_ppl": 0,
+    "hellaswag_it_chat_ppl": 0,
+    "hellaswag_kn_chat_ppl": 0,
+    "hellaswag_ml_chat_ppl": 0,
+    "hellaswag_mr_chat_ppl": 0,
+    "hellaswag_ne_chat_ppl": 0,
+    "hellaswag_nl_chat_ppl": 0,
+    "hellaswag_pt_chat_ppl": 0,
+    "hellaswag_ro_chat_ppl": 0,
+    "hellaswag_ru_chat_ppl": 0,
+    "hellaswag_sk_chat_ppl": 0,
+    "hellaswag_sr_chat_ppl": 0,
+    "hellaswag_sv_chat_ppl": 0,
+    "hellaswag_ta_chat_ppl": 0,
+    "hellaswag_te_chat_ppl": 0,
+    "hellaswag_uk_chat_ppl": 0,
+    "hellaswag_vi_chat_ppl": 0
+  },
+  "higher_is_better": {
+    "hellaswag_ar_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_bn_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ca_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_da_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_de_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_es_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_eu_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_fr_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_gu_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_hi_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_hr_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_hu_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_hy_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_id_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_it_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_kn_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ml_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_mr_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ne_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_nl_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_pt_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ro_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ru_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_sk_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_sr_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_sv_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_ta_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_te_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_uk_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    },
+    "hellaswag_vi_chat_ppl": {
+      "word_perplexity": false,
+      "byte_perplexity": false,
+      "bits_per_byte": false
+    }
+  },
+  "n-samples": {
+    "hellaswag_vi_chat_ppl": {
+      "original": 9162,
+      "effective": 9162
+    },
+    "hellaswag_uk_chat_ppl": {
+      "original": 9409,
+      "effective": 9409
+    },
+    "hellaswag_te_chat_ppl": {
+      "original": 8724,
+      "effective": 8724
+    },
+    "hellaswag_ta_chat_ppl": {
+      "original": 8413,
+      "effective": 8413
+    },
+    "hellaswag_sv_chat_ppl": {
+      "original": 9122,
+      "effective": 9122
+    },
+    "hellaswag_sr_chat_ppl": {
+      "original": 9449,
+      "effective": 9449
+    },
+    "hellaswag_sk_chat_ppl": {
+      "original": 9485,
+      "effective": 9485
+    },
+    "hellaswag_ru_chat_ppl": {
+      "original": 9272,
+      "effective": 9272
+    },
+    "hellaswag_ro_chat_ppl": {
+      "original": 9245,
+      "effective": 9245
+    },
+    "hellaswag_pt_chat_ppl": {
+      "original": 9229,
+      "effective": 9229
+    },
+    "hellaswag_nl_chat_ppl": {
+      "original": 9265,
+      "effective": 9265
+    },
+    "hellaswag_ne_chat_ppl": {
+      "original": 9318,
+      "effective": 9318
+    },
+    "hellaswag_mr_chat_ppl": {
+      "original": 9279,
+      "effective": 9279
+    },
+    "hellaswag_ml_chat_ppl": {
+      "original": 8933,
+      "effective": 8933
+    },
+    "hellaswag_kn_chat_ppl": {
+      "original": 8862,
+      "effective": 8862
+    },
+    "hellaswag_it_chat_ppl": {
+      "original": 9193,
+      "effective": 9193
+    },
+    "hellaswag_id_chat_ppl": {
+      "original": 9314,
+      "effective": 9314
+    },
+    "hellaswag_hy_chat_ppl": {
+      "original": 8632,
+      "effective": 8632
+    },
+    "hellaswag_hu_chat_ppl": {
+      "original": 9119,
+      "effective": 9119
+    },
+    "hellaswag_hr_chat_ppl": {
+      "original": 9471,
+      "effective": 9471
+    },
+    "hellaswag_hi_chat_ppl": {
+      "original": 9416,
+      "effective": 9416
+    },
+    "hellaswag_gu_chat_ppl": {
+      "original": 8803,
+      "effective": 8803
+    },
+    "hellaswag_fr_chat_ppl": {
+      "original": 9338,
+      "effective": 9338
+    },
+    "hellaswag_eu_chat_ppl": {
+      "original": 9255,
+      "effective": 9255
+    },
+    "hellaswag_es_chat_ppl": {
+      "original": 9374,
+      "effective": 9374
+    },
+    "hellaswag_de_chat_ppl": {
+      "original": 9368,
+      "effective": 9368
+    },
+    "hellaswag_da_chat_ppl": {
+      "original": 9305,
+      "effective": 9305
+    },
+    "hellaswag_chat_ppl": {
+      "original": 10042,
+      "effective": 10042
+    },
+    "hellaswag_ca_chat_ppl": {
+      "original": 9211,
+      "effective": 9211
+    },
+    "hellaswag_bn_chat_ppl": {
+      "original": 9242,
+      "effective": 9242
+    },
+    "hellaswag_ar_chat_ppl": {
+      "original": 9176,
+      "effective": 9176
+    }
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=/NS/llm-1/nobackup/afkhan/Model_Saves/aya-23-8B",
+    "model_num_parameters": 8028033024,
+    "model_dtype": "torch.float16",
+    "model_revision": "main",
+    "model_sha": "",
+    "batch_size": "auto",
+    "batch_sizes": [],
+    "device": null,
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 42,
+    "numpy_seed": 42,
+    "torch_seed": 42,
+    "fewshot_seed": 42
+  },
+  "git_hash": "faf8117",
+  "date": 1723116935.2786033,
+  "pretty_env_info": "PyTorch version: 2.3.1+cu121\nIs debug build: False\nCUDA used to build PyTorch: 12.1\nROCM used to build PyTorch: N/A\n\nOS: Debian GNU/Linux 12 (bookworm) (x86_64)\nGCC version: (Debian 12.2.0-14) 12.2.0\nClang version: 14.0.6\nCMake version: version 3.25.1\nLibc version: glibc-2.36\n\nPython version: 3.10.14 | packaged by conda-forge | (main, Mar 20 2024, 12:45:18) [GCC 12.3.0] (64-bit runtime)\nPython platform: Linux-6.1.92.1.amd64-smp-x86_64-with-glibc2.36\nIs CUDA available: True\nCUDA runtime version: 11.8.89\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: \nGPU 0: NVIDIA H100 PCIe\nGPU 1: NVIDIA H100 PCIe\n\nNvidia driver version: 550.54.14\ncuDNN version: Could not collect\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                         x86_64\nCPU op-mode(s):                       32-bit, 64-bit\nAddress sizes:                        46 bits physical, 57 bits virtual\nByte Order:                           Little Endian\nCPU(s):                               48\nOn-line CPU(s) list:                  0-47\nVendor ID:                            GenuineIntel\nModel name:                           Intel(R) Xeon(R) Gold 5317 CPU @ 3.00GHz\nCPU family:                           6\nModel:                                106\nThread(s) per core:                   2\nCore(s) per socket:                   12\nSocket(s):                            2\nStepping:                             6\nCPU(s) scaling MHz:                   22%\nCPU max MHz:                          3600.0000\nCPU min MHz:                          800.0000\nBogoMIPS:                             6000.00\nFlags:                                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 invpcid_single intel_ppin ssbd mba ibrs ibpb stibp ibrs_enhanced tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm rdt_a avx512f avx512dq rdseed adx smap avx512ifma clflushopt clwb intel_pt avx512cd sha_ni avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local split_lock_detect wbnoinvd dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req avx512vbmi umip pku ospke avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg tme avx512_vpopcntdq la57 rdpid fsrm md_clear pconfig flush_l1d arch_capabilities\nVirtualization:                       VT-x\nL1d cache:                            1.1 MiB (24 instances)\nL1i cache:                            768 KiB (24 instances)\nL2 cache:                             30 MiB (24 instances)\nL3 cache:                             36 MiB (2 instances)\nNUMA node(s):                         2\nNUMA node0 CPU(s):                    0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46\nNUMA node1 CPU(s):                    1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47\nVulnerability Gather data sampling:   Mitigation; Microcode\nVulnerability Itlb multihit:          Not affected\nVulnerability L1tf:                   Not affected\nVulnerability Mds:                    Not affected\nVulnerability Meltdown:               Not affected\nVulnerability Mmio stale data:        Mitigation; Clear CPU buffers; SMT vulnerable\nVulnerability Reg file data sampling: Not affected\nVulnerability Retbleed:               Not affected\nVulnerability Spec rstack overflow:   Not affected\nVulnerability Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:             Mitigation; Enhanced / Automatic IBRS; IBPB conditional; RSB filling; PBRSB-eIBRS SW sequence; BHI SW loop, KVM SW loop\nVulnerability Srbds:                  Not affected\nVulnerability Tsx async abort:        Not affected\n\nVersions of relevant libraries:\n[pip3] numpy==1.26.4\n[pip3] torch==2.3.1\n[pip3] triton==2.3.1\n[conda] numpy                     1.26.4                   pypi_0    pypi\n[conda] torch                     2.3.1                    pypi_0    pypi\n[conda] triton                    2.3.1                    pypi_0    pypi",
+  "transformers_version": "4.42.3",
+  "upper_git_hash": null,
+  "tokenizer_pad_token": [
+    "<PAD>",
+    0
+  ],
+  "tokenizer_eos_token": [
+    "<|END_OF_TURN_TOKEN|>",
+    255001
+  ],
+  "tokenizer_bos_token": [
+    "<BOS_TOKEN>",
+    5
+  ],
+  "eot_token_id": 255001,
+  "max_length": 8192,
+  "task_hashes": {
+    "hellaswag_vi_chat_ppl": "c4402cf61f68bdbaa4d356bcc128af5867a09cbb1f63e87928a4e3a53a9ebccf",
+    "hellaswag_uk_chat_ppl": "de91528c59d5932e01b6a5e779cf091bba810b54e276a938119b1541bdc9eb93",
+    "hellaswag_te_chat_ppl": "d1481bedf627a74d85ae1813829fc328d9712910bbb44fa492315fdf8428ead5",
+    "hellaswag_ta_chat_ppl": "db6969460af7832bdeb8d638ea588e18463a33aac6c009c93db7863c7a43adec",
+    "hellaswag_sv_chat_ppl": "a18dfc2b6891e86fb6419e72dc930831c43d1bb74e44a65cf5915da09b292682",
+    "hellaswag_sr_chat_ppl": "4b1554aea17806cb9dd8a70d1f822c242ad2ac690859fd124d3f8005892d826f",
+    "hellaswag_sk_chat_ppl": "8d7cd589bd39deaf37f7930d8fb5ad19e12d19235dbe685d8d0c9295c7b1add3",
+    "hellaswag_ru_chat_ppl": "bd64e2511e48fe99e4955e81f10c84700d5985bb5569ff0cc113bf9b7a032418",
+    "hellaswag_ro_chat_ppl": "7de4470476078af18405e8ff8f29465b808e2cf9cbadc2701568584d07a5b5c1",
+    "hellaswag_pt_chat_ppl": "000edaaf5be90eaf77bd67ccb7a546364c8260ad9a8ba26228ec93d19e86c4e4",
+    "hellaswag_nl_chat_ppl": "003007bfd0aef562fdab3f62694d03e3562bd946d09f044c54cd4dd0fc4469bb",
+    "hellaswag_ne_chat_ppl": "79fc39429d9686e91c0bd050809abccfabca2d3407378dddbe64232707bf2538",
+    "hellaswag_mr_chat_ppl": "f312c6358117ec99d0d5367e94cc0492897c18b69cada2853f83b054d9400bb6",
+    "hellaswag_ml_chat_ppl": "318a576443c38fdc3f114e2059e7f3418d6a8f43b46915a7b5c447b9984c4e09",
+    "hellaswag_kn_chat_ppl": "5689a55ec41b38ba806ff4c9e74a065a66de446b05be27cf9e5425f3810a6c6d",
+    "hellaswag_it_chat_ppl": "d184bff390842fdae7b7e990efb60a81b4d437916cc691acd89e8fed1b149ed4",
+    "hellaswag_id_chat_ppl": "6220a32022596974cd80b32cda463b662567e5c307668157534cbb3a95b740b3",
+    "hellaswag_hy_chat_ppl": "d2bb8ef78bc86737fa0c0161cef7d463a6e6dfd6dfdb38b9077f8366e0c0c0da",
+    "hellaswag_hu_chat_ppl": "b8a00fa1a9c8f0af4c2a112f219ae34432751ceeb4ec4dcc76a21d5394084912",
+    "hellaswag_hr_chat_ppl": "c6e4b208835f32846cdc48e3f5c71dfc2bf3a7f05faa956e135504323de75115",
+    "hellaswag_hi_chat_ppl": "0235a1f3eba0e46364d807084df6c377bdce9ce2a12b86b38cc5c196963026b1",
+    "hellaswag_gu_chat_ppl": "55e8cdd6d22c40b403dd4140f6c3a039eeeef12bf701ad613e4d3f7cb95db639",
+    "hellaswag_fr_chat_ppl": "f60538fa9586a911dd9450d0cc419a4bdd7a0b0ee8b8fc5e56af22f55c9efc83",
+    "hellaswag_eu_chat_ppl": "e9d6246e549662fc028064f28cf7eceb7c9ff03e10af416f8d3f7509e78562b5",
+    "hellaswag_es_chat_ppl": "e200383923db91b2613245fad17f997db3f1db0f0ff1d5d2b704527715a2b165",
+    "hellaswag_de_chat_ppl": "1b05a4ca132798ccb1017a8fb3965191a2828500888b1054083374f372d7c401",
+    "hellaswag_da_chat_ppl": "2ffeaec565d7511362f1ae27577abde1ab687f38512102a44fed06b8fa19679c",
+    "hellaswag_chat_ppl": "a3a15ee34fe983fd99a6cfcbdccd90777bfe86c34d162b1eb14d1acb2180a680",
+    "hellaswag_ca_chat_ppl": "19501293532408b43674c9384189c62bbbbd6a0eab57bead3749ab7442de2ae8",
+    "hellaswag_bn_chat_ppl": "952d5dcfc43c14f040bd3b08c808f54242d59eef24c2175979608346b56ed0d4",
+    "hellaswag_ar_chat_ppl": "370ce3cc97273da5e4b27d562439cbbb3635d16d84bb6c962c89897b3496755a"
+  },
+  "model_source": "hf",
+  "model_name": "/NS/llm-1/nobackup/afkhan/Model_Saves/aya-23-8B",
+  "model_name_sanitized": "__NS__llm-1__nobackup__afkhan__Model_Saves__aya-23-8B",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": null,
+  "chat_template_sha": null,
+  "start_time": 3096693.304782368,
+  "end_time": 3105933.20462266,
+  "total_evaluation_time_seconds": "9239.899840292055"
+}
